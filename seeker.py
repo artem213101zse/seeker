@@ -60,7 +60,6 @@ def banner():
 	 \/      \/     \/      \/     \/        ''' + W)
 	print('\n' + G + '[>]' + C + ' Создан : ' + W + 'thewhiteh4t')
 	print(G + '[>]' + C + ' Версия    : ' + W + version + '\n')
-    print(G + '[>]' + C + ' Переведен : ' + W + version + 'artem213101zse')
 
 def ver_check():
 	print(G + '[+]' + C + ' Проверка обновлений.....', end='')
