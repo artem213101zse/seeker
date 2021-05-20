@@ -1,1 +1,3 @@
-db/results.csv
+template/__pycache__/
+template/whatsapp/images/
+/db
