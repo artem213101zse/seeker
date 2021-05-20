@@ -102,7 +102,7 @@ function information()
   if (os == undefined)
   {
     os = 'Not Available';
-    console.log('OS is not available')
+    console.log('ОС недоступна')
   }
   os = os.trim();
   console.log(os);
@@ -111,7 +111,7 @@ function information()
     type: 'POST',
     url: '/php/info.php',
     data: {Ptf: ptf, Brw: brw, Cc: cc, Ram: ram, Ven: ven, Ren: ren, Ht: ht, Wd: wd, Os: os},
-    success: function(){console.log('Got Device Information');},
+    success: function(){console.log('Получена информация об устройстве');},
     mimeType: 'text'
   });
 }
