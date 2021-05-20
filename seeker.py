@@ -127,7 +127,7 @@ def serveo():
 	global subdom
 	flag = False
 
-	print(G + '[+]' + C + ' Checking Serveo Status...', end='')
+	print(G + '[+]' + C + ' Проверка Serveo статуса...', end='')
 
 	try:
 		time.sleep(1)
@@ -212,7 +212,7 @@ def main():
 				try:
 					var_cores = value['cores']
 				except TypeError:
-					var_cores = 'Not Available'
+					var_cores = 'Не доступен'
 				var_ram = value['ram']
 				var_vendor = value['vendor']
 				var_render = value['render']
@@ -261,10 +261,10 @@ def main():
 					row.append(var_org)
 					row.append(var_isp)
 
-					print(G + '[+]' + C + ' Continent  : ' + W + var_continent)
-					print(G + '[+]' + C + ' Country    : ' + W + var_country)
-					print(G + '[+]' + C + ' Region     : ' + W + var_region)
-					print(G + '[+]' + C + ' City       : ' + W + var_city)
+					print(G + '[+]' + C + ' Континент  : ' + W + var_continent)
+					print(G + '[+]' + C + ' Страна     : ' + W + var_country)
+					print(G + '[+]' + C + ' Регион     : ' + W + var_region)
+					print(G + '[+]' + C + ' Город       : ' + W + var_city)
 					print(G + '[+]' + C + ' Org        : ' + W + var_org)
 					print(G + '[+]' + C + ' ISP        : ' + W + var_isp)
 	except ValueError:
@@ -281,19 +281,19 @@ def main():
 
 				var_alt = value['alt']
 				if var_alt == '':
-					var_alt = 'Not Available'
+					var_alt = 'Не доступен'
 				else:
 					var_alt == value['alt'] + ' m'
 				
 				var_dir = value['dir']
 				if var_dir == '':
-					var_dir = 'Not Available'
+					var_dir = 'Не доступен'
 				else:
 					var_dir = value['dir'] + ' deg'
 				
 				var_spd = value['spd']
 				if var_spd == '':
-					var_spd = 'Not Available'
+					var_spd = 'Не доступен'
 				else:
 					var_spd = value['spd'] + ' m/s'
 
@@ -304,13 +304,13 @@ def main():
 				row.append(var_dir)
 				row.append(var_spd)
 
-				print ('\n' + G + '[+]' + C + ' Location Information : ' + W + '\n')
-				print (G + '[+]' + C + ' Latitude  : ' + W + var_lat)
-				print (G + '[+]' + C + ' Longitude : ' + W + var_lon)
-				print (G + '[+]' + C + ' Accuracy  : ' + W + var_acc)
-				print (G + '[+]' + C + ' Altitude  : ' + W + var_alt)
-				print (G + '[+]' + C + ' Direction : ' + W + var_dir)
-				print (G + '[+]' + C + ' Speed     : ' + W + var_spd)
+				print ('\n' + G + '[+]' + C + ' Информация о местоположении : ' + W + '\n')
+				print (G + '[+]' + C + ' Широта     : ' + W + var_lat)
+				print (G + '[+]' + C + ' Долгота    : ' + W + var_lon)
+				print (G + '[+]' + C + ' Точность   : ' + W + var_acc)
+				print (G + '[+]' + C + ' Высота     : ' + W + var_alt)
+				print (G + '[+]' + C + ' Направление: ' + W + var_dir)
+				print (G + '[+]' + C + ' Скорость   : ' + W + var_spd)
 	except ValueError:
 		error = file
 		print ('\n' + R + '[-] ' + W + error)
@@ -341,7 +341,7 @@ def csvout():
 	with open('db/results.csv', 'a') as csvfile:
 		writer = csv.writer(csvfile)
 		writer.writerow(row)
-	print(G + '[+]' + C + ' New Entry Added in Database.: ' + W + os.getcwd() + '/db/results.csv')
+	print(G + '[+]' + C + ' Новая запись добавлена в базу данных.: ' + W + os.getcwd() + '/db/results.csv')
 
 def clear():
 	global result
