@@ -1,13 +1,13 @@
 {
     "templates": [
         {
-            "name": "NearYou",
+            "name": "Рядом с тобой",
             "dir_name": "nearyou",
             "module": false,
             "import_file": null
         },
         {
-            "name": "Google Drive",
+            "name": "Google Диск",
             "dir_name": "gdrive",
             "module": true,
             "import_file": "mod_gdrive"

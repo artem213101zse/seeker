@@ -303,6 +303,8 @@ def main():
 				row.append(var_alt)
 				row.append(var_dir)
 				row.append(var_spd)
+                
+                row.append(W + 'https://www.google.com/maps/place/' + var_lat.strip(' deg') + '+' + var_lon.strip(' deg'))
 
 				print ('\n' + G + '[+]' + C + ' Информация о местоположении : ' + W + '\n')
 				print (G + '[+]' + C + ' Широта     : ' + W + var_lat)

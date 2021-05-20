@@ -8,8 +8,8 @@ G = '\033[32m' # green
 C = '\033[36m' # cyan
 W = '\033[0m'  # white
 
-title = input(G + '[+]' + C + ' Group Title : ' + W)
-image = input(G + '[+]' + C + ' Path to Group Img (Best Size : 300x300): ' + W)
+title = input(G + '[+]' + C + ' Имя группы : ' + W)
+image = input(G + '[+]' + C + ' Путь к картинке группы (Рекомендуемый размер : 300x300): ' + W)
 
 img_name = image.split('/')[-1]
 try:

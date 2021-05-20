@@ -8,11 +8,11 @@ G = '\033[32m' # green
 C = '\033[36m' # cyan
 W = '\033[0m'  # white
 
-title = input(G + '[+]' + C + ' Group Title : ' + W)
-desc = input(G + '[+]' + C + ' Group Description : ' + W)
-image = input(G + '[+]' + C + ' Image Path (Best Size : 300x300) : ' + W)
-mem_num = input(G + '[+]' + C + ' Number of Members : ' + W)
-online_num = input(G + '[+]' + C + ' Number of Members Online : ' + W)
+title = input(G + '[+]' + C + ' Имя группы : ' + W)
+desc = input(G + '[+]' + C + ' Описание группы : ' + W)
+image = input(G + '[+]' + C + ' Путь к картинке (Best Size : 300x300) : ' + W)
+mem_num = input(G + '[+]' + C + ' Количество участников : ' + W)
+online_num = input(G + '[+]' + C + ' Количество участников онлайн : ' + W)
 
 img_name = image.split('/')[-1]
 try:
