@@ -73,7 +73,7 @@ def ver_check():
 			github_ver = github_ver.strip()
 
 			if version == github_ver:
-				print(C + '[' + G + ' Up-To-Date ' + C +']' + '\n')
+				print(C + '[' + G + ' Обновлено ' + C +']' + '\n')
 			else:
 				print(C + '[' + G + ' Available : {} '.format(github_ver) + C + ']' + '\n')
 		else:
@@ -85,14 +85,14 @@ def tunnel_select():
 	if tunnel_mode == None:
 		serveo()
 	elif tunnel_mode == 'manual':
-		print(G + '[+]' + C + ' Skipping Serveo, start your own tunnel service manually...' + W + '\n')
+		print(G + '[+]' + C + ' Пропускаю Serveo, запустите свой собственный туннельный сервис вручную...' + W + '\n')
 	else:
 		print(R + '[+]' + C + ' Invalid Tunnel Mode Selected, Check Help [-h, --help]' + W + '\n')
 		exit()
 
 def template_select():
 	global site, info, result
-	print(G + '[+]' + C + ' Select a Template : ' + W + '\n')
+	print(G + '[+]' + C + ' Выберите шаблон : ' + W + '\n')
 	
 	with open('template/templates.json', 'r') as templ:
 		templ_info = templ.read()
@@ -111,7 +111,7 @@ def template_select():
 		print('\n' + R + '[-]' + C + ' Invalid Input!' + W + '\n')
 		sys.exit()
 	
-	print('\n' + G + '[+]' + C + ' Loading {} Template...'.format(templ_json['templates'][selected]['name']) + W)
+	print('\n' + G + '[+]' + C + ' Загрузка {} шаблона...'.format(templ_json['templates'][selected]['name']) + W)
 	
 	module = templ_json['templates'][selected]['module']
 	if module == True:
@@ -135,12 +135,12 @@ def serveo():
 		rqst = requests.get('https://serveo.net', timeout=5)
 		sc = rqst.status_code
 		if sc == 200:
-			print(C + '[' + G + ' Online ' + C + ']' + W + '\n')
+			print(C + '[' + G + ' Онлайн ' + C + ']' + W + '\n')
 		else:
-			print(C + '[' + R + 'Status : {}'.format(sc) + C + ']' + W + '\n')
+			print(C + '[' + R + 'Статус : {}'.format(sc) + C + ']' + W + '\n')
 			exit()
 	except requests.ConnectionError:
-		print(C + '[' + R + ' Offline ' + C + ']' + W + '\n')
+		print(C + '[' + R + ' Оффлайн ' + C + ']' + W + '\n')
 		exit()
 			
 	print(G + '[+]' + C + ' Getting Serveo URL...' + W + '\n')
