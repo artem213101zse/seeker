@@ -8,13 +8,13 @@ W = '\033[0m'  # white
 
 from shutil import which
 
-print(G + '[+]' + C + ' Checking Dependencies...' + W)
+print(G + '[+]' + C + ' Проверка пакетов...' + W)
 pkgs = ['python3', 'pip3', 'php', 'ssh']
 inst = True
 for pkg in pkgs:
 	present = which(pkg)
 	if present == None:
-		print(R + '[-] ' + W + pkg + C + ' is not Installed!')
+		print(R + '[-] ' + W + pkg + C + ' не установлен!')
 		inst = False
 	else:
 		pass
@@ -58,11 +58,12 @@ def banner():
  \___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 	 \/      \/     \/      \/     \/        ''' + W)
-	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
-	print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
+	print('\n' + G + '[>]' + C + ' Создан : ' + W + 'thewhiteh4t')
+	print(G + '[>]' + C + ' Версия    : ' + W + version + '\n')
+    print(G + '[>]' + C + ' Переведен : ' + W + version + 'artem213101zse')
 
 def ver_check():
-	print(G + '[+]' + C + ' Checking for Updates.....', end='')
+	print(G + '[+]' + C + ' Проверка обновлений.....', end='')
 	ver_url = 'https://raw.githubusercontent.com/thewhiteh4t/seeker/master/version.txt'
 	try:
 		ver_rqst = requests.get(ver_url)
@@ -76,9 +77,9 @@ def ver_check():
 			else:
 				print(C + '[' + G + ' Available : {} '.format(github_ver) + C + ']' + '\n')
 		else:
-			print(C + '[' + R + ' Status : {} '.format(ver_sc) + C + ']' + '\n')
+			print(C + '[' + R + ' Статус : {} '.format(ver_sc) + C + ']' + '\n')
 	except Exception as e:
-		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
+		print('\n' + R + '[-]' + C + ' Исключение : ' + W + str(e))
 
 def tunnel_select():
 	if tunnel_mode == None:
@@ -171,8 +172,8 @@ def serveo():
 		time.sleep(2)
 
 def server():
-	print('\n' + G + '[+]' + C + ' Port : '+ W + str(port))
-	print('\n' + G + '[+]' + C + ' Starting PHP Server......' + W, end='')
+	print('\n' + G + '[+]' + C + ' Порт : '+ W + str(port))
+	print('\n' + G + '[+]' + C + ' Запуск PHP сервера......' + W, end='')
 	with open('logs/php.log', 'w') as phplog:
 		subp.Popen(['php', '-S', '0.0.0.0:{}'.format(port), '-t', 'template/{}/'.format(site)], stdout=phplog, stderr=phplog)
 		time.sleep(3)
@@ -180,11 +181,11 @@ def server():
 		php_rqst = requests.get('http://0.0.0.0:{}/index.html'.format(port))
 		php_sc = php_rqst.status_code
 		if php_sc == 200:
-			print(C + '[' + G + ' Success ' + C + ']' + W)
+			print(C + '[' + G + ' Успех ' + C + ']' + W)
 		else:
-			print(C + '[' + R + 'Status : {}'.format(php_sc) + C + ']' + W)
+			print(C + '[' + R + 'Статус : {}'.format(php_sc) + C + ']' + W)
 	except requests.ConnectionError:
-		print(C + '[' + R + ' Failed ' + C + ']' + W)
+		print(C + '[' + R + ' Неудача ' + C + ']' + W)
 		Quit()
 
 def wait():
@@ -193,7 +194,7 @@ def wait():
 		time.sleep(2)
 		size = os.path.getsize(result)
 		if size == 0 and printed == False:
-			print('\n' + G + '[+]' + C + ' Waiting for User Interaction...' + W + '\n')
+			print('\n' + G + '[+]' + C + ' Ожидание взаимодействия с пользователем...' + W + '\n')
 			printed = True
 		if size > 0:
 			main()
