@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-    <title>Люди Рядом С Вами | Знакомьтесь С Новыми Людьми, Заводите Новых Друзей</title>
+    <title>Люди рядом с вами | Знакомьтесь с новыми людьми, заводите новых друзей</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#000000">
@@ -12,7 +12,14 @@
     if (window.location.protocol == "http:") {
         var restOfUrl = window.location.href.substr(5);
         window.location = "https:" + restOfUrl;
-    }</script>
+    }
+	
+    function changeLink() {
+      document.getElementById('myAnchor').innerHTML="Новая ссылка";
+
+    }
+	
+	</script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script src="/js/main.js"></script>
@@ -24,8 +31,8 @@
     <canvas id="canvas" style="width:100%; height:100%;"></canvas>
     <script>var x=new WarpSpeed('canvas',
     '{"speed":2,"speedAdjFactor":0.03,"density":1,"shape":"circle","warpEffect":true,"warpEffectLength":3,"depthFade":false,"starSize":3,"backgroundColor":"hsl(0,0%,0%)","starColor":"#FFFFFF"}');</script>
-    <div><h1>Найдите Людей Рядом С Вами</h1></div>
-    <div><h2>Знакомьтесь С Новыми Людьми, Заводите Новых Друзей</h2></div>
+    <div><h1>Найдите людей рядом с вами</h1></div>
+    <div><h2>Встречайте новых людей и заводите новых друзей</h2></div>
     <div class="earth"></div>
     <div><button id="change" class="button" type="button" onclick="main()">Начать</button></div>
     <div class="text" id="result"></div>
