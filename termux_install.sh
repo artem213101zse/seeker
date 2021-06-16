@@ -1,7 +1,7 @@
-echo '[!] Updating...'
+echo '[!] Обновление...'
 apt-get update > install.log
 echo
-echo '[!] Installing Dependencies...'
+echo '[!] Установка зависимостей...'
 echo '    Python3'
 apt-get -y install python &>> install.log
 echo '    PHP'
@@ -11,8 +11,8 @@ apt-get -y install openssh &>> install.log
 echo '    Requests'
 pip3 install requests &>> install.log
 echo
-echo '[!] Setting Permissions...'
+echo '[!] Настройка разрешений...'
 chmod 777 template/nearyou/php/info.txt
 chmod 777 template/nearyou/php/result.txt
 echo
-echo '[!] Installed.'
+echo '[!] Установлено.'
