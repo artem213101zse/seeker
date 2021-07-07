@@ -364,7 +364,7 @@ def Quit():
 
 try:
 	banner()
-	#ver_check()
+	ver_check()
 	tunnel_select()
 	template_select()
 	server()

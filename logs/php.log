@@ -1,19 +1,1918 @@
-[Sat Aug 24 10:03:14 2019] 127.0.0.1:46454 [200]: /nearyou/index.html
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46460 [200]: /nearyou/
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46464 [200]: /nearyou/css/main.css
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46468 [200]: /nearyou/js/main.js
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46472 [200]: /nearyou/js/location.js
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46476 [200]: /nearyou/js/warpspeed.min.js
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46480 [200]: /nearyou/js/info.js
-[Sat Aug 24 10:03:28 2019] 127.0.0.1:46484 [200]: /nearyou/
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46488 [200]: /nearyou/css/main.css
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46492 [200]: /nearyou/js/main.js
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46496 [200]: /nearyou/js/location.js
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46500 [200]: /nearyou/js/info.js
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46504 [200]: /nearyou/js/warpspeed.min.js
-[Sat Aug 24 10:03:30 2019] 127.0.0.1:46508 [200]: /nearyou/php/info.php
-[Sat Aug 24 10:03:32 2019] 127.0.0.1:46512 [200]: /nearyou/php/result.php
-PHP 7.3.8 Development Server started at Sat Aug 24 10:03:12 2019
-Listening on http://127.0.0.1:8080
-Document root is /home/unknown/tools/seeker/template
-Press Ctrl-C to quit.
+[Wed Jul  7 13:18:02 2021] PHP 7.4.3 Development Server (http://0.0.0.0:8080) started
+[Wed Jul  7 13:18:05 2021] 127.0.0.1:49056 Accepted
+[Wed Jul  7 13:18:05 2021] 127.0.0.1:49056 [200]: (null) /index.html
+[Wed Jul  7 13:18:05 2021] 127.0.0.1:49056 Closing
+[Wed Jul  7 13:18:43 2021] 127.0.0.1:49068 Accepted
+[Wed Jul  7 13:18:43 2021] 127.0.0.1:49068 [200]: (null) /
+[Wed Jul  7 13:18:43 2021] 127.0.0.1:49068 Closing
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49080 Accepted
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49080 [200]: (null) /css/main.css
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49080 Closing
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49082 Accepted
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49082 [200]: (null) /js/warpspeed.min.js
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49082 Closing
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49084 Accepted
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49084 [200]: (null) /js/location.js
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49084 Closing
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49086 Accepted
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49086 [200]: (null) /js/info.js
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49086 Closing
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49088 Accepted
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49088 [200]: (null) /js/main.js
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49088 Closing
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49094 Accepted
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49094 [200]: (null) /
+[Wed Jul  7 13:18:44 2021] 127.0.0.1:49094 Closing
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49096 Accepted
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49098 Accepted
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49096 [200]: (null) /css/main.css
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49096 Closing
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49100 Accepted
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49098 [200]: (null) /js/main.js
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49102 Accepted
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49100 [200]: (null) /js/warpspeed.min.js
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49104 Accepted
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49102 [200]: (null) /js/info.js
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49098 Closing
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49104 [200]: (null) /js/location.js
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49100 Closing
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49102 Closing
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49104 Closing
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49106 Accepted
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49106 [200]: (null) /css/worldmap.jpg
+[Wed Jul  7 13:18:45 2021] 127.0.0.1:49106 Closing
+[Wed Jul  7 13:18:46 2021] 127.0.0.1:49110 Accepted
+[Wed Jul  7 13:18:46 2021] 127.0.0.1:49110 [200]: POST /php/info.php
+[Wed Jul  7 13:18:46 2021] 127.0.0.1:49110 Closing
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49112 Accepted
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49112 [200]: POST /
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49112 Closing
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49114 Accepted
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49114 [200]: POST /css/main.css
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49114 Closing
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49116 Accepted
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49118 Accepted
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49116 [200]: POST /js/main.js
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49120 Accepted
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49120 [200]: POST /js/location.js
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49116 Closing
+[Wed Jul  7 13:19:12 2021] 127.0.0.1:49120 Closing
+[Wed Jul  7 13:19:13 2021] 127.0.0.1:49118 [200]: POST /js/info.js
+[Wed Jul  7 13:19:13 2021] 127.0.0.1:49118 Closing
+[Wed Jul  7 13:19:13 2021] 127.0.0.1:49122 Accepted
+[Wed Jul  7 13:19:13 2021] 127.0.0.1:49122 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:19:13 2021] 127.0.0.1:49122 Closing
+[Wed Jul  7 13:19:13 2021] 127.0.0.1:49126 Accepted
+[Wed Jul  7 13:19:13 2021] 127.0.0.1:49126 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:19:13 2021] 127.0.0.1:49126 Closing
+[Wed Jul  7 13:19:14 2021] 127.0.0.1:49128 Accepted
+[Wed Jul  7 13:19:14 2021] 127.0.0.1:49128 [200]: POST /php/info.php
+[Wed Jul  7 13:19:14 2021] 127.0.0.1:49128 Closing
+[Wed Jul  7 13:19:39 2021] 127.0.0.1:49132 Accepted
+[Wed Jul  7 13:19:39 2021] 127.0.0.1:49132 [404]: POST /robots.txt - No such file or directory
+[Wed Jul  7 13:19:39 2021] 127.0.0.1:49132 Closing
+[Wed Jul  7 13:19:43 2021] 127.0.0.1:49134 Accepted
+[Wed Jul  7 13:19:43 2021] 127.0.0.1:49134 [200]: POST /
+[Wed Jul  7 13:19:43 2021] 127.0.0.1:49134 Closing
+[Wed Jul  7 13:19:53 2021] 127.0.0.1:49136 Accepted
+[Wed Jul  7 13:19:53 2021] 127.0.0.1:49136 [404]: POST /robots.txt - No such file or directory
+[Wed Jul  7 13:19:53 2021] 127.0.0.1:49136 Closing
+[Wed Jul  7 13:19:57 2021] 127.0.0.1:49138 Accepted
+[Wed Jul  7 13:19:57 2021] 127.0.0.1:49138 [200]: POST /
+[Wed Jul  7 13:19:57 2021] 127.0.0.1:49138 Closing
+[Wed Jul  7 13:20:16 2021] 127.0.0.1:49140 Accepted
+[Wed Jul  7 13:20:16 2021] 127.0.0.1:49140 [200]: POST /
+[Wed Jul  7 13:20:16 2021] 127.0.0.1:49140 Closing
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49146 Accepted
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49146 [200]: POST /css/main.css
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49146 Closing
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49148 Accepted
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49148 [200]: POST /js/main.js
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49148 Closing
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49150 Accepted
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49150 [200]: POST /js/location.js
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49150 Closing
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49154 Accepted
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49152 Accepted
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49154 [200]: POST /js/info.js
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49152 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49154 Closing
+[Wed Jul  7 13:20:17 2021] 127.0.0.1:49152 Closing
+[Wed Jul  7 13:20:19 2021] 127.0.0.1:49156 Accepted
+[Wed Jul  7 13:20:19 2021] 127.0.0.1:49156 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:20:19 2021] 127.0.0.1:49156 Closing
+[Wed Jul  7 13:20:33 2021] 127.0.0.1:49160 Accepted
+[Wed Jul  7 13:20:33 2021] 127.0.0.1:49160 [200]: POST /php/info.php
+[Wed Jul  7 13:20:33 2021] 127.0.0.1:49160 Closing
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49162 Accepted
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49162 [200]: POST /
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49162 Closing
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49166 Accepted
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49164 Accepted
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49170 Accepted
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49170 [200]: POST /js/info.js
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49170 Closing
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49172 Accepted
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49166 [200]: POST /css/main.css
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49164 [200]: POST /js/main.js
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49174 Accepted
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49172 [200]: POST /js/location.js
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49174 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49166 Closing
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49164 Closing
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49172 Closing
+[Wed Jul  7 13:20:46 2021] 127.0.0.1:49174 Closing
+[Wed Jul  7 13:20:47 2021] 127.0.0.1:49176 Accepted
+[Wed Jul  7 13:20:47 2021] 127.0.0.1:49176 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:20:47 2021] 127.0.0.1:49176 Closing
+[Wed Jul  7 13:20:50 2021] 127.0.0.1:49178 Accepted
+[Wed Jul  7 13:20:50 2021] 127.0.0.1:49178 [200]: POST /php/info.php
+[Wed Jul  7 13:20:50 2021] 127.0.0.1:49178 Closing
+[Wed Jul  7 13:21:03 2021] 127.0.0.1:49180 Accepted
+[Wed Jul  7 13:21:03 2021] 127.0.0.1:49180 [200]: POST /
+[Wed Jul  7 13:21:03 2021] 127.0.0.1:49180 Closing
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49182 Accepted
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49182 [200]: POST /css/main.css
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49182 Closing
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49184 Accepted
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49184 [200]: POST /js/main.js
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49184 Closing
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49188 Accepted
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49186 Accepted
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49188 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49190 Accepted
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49186 [200]: POST /js/location.js
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49190 [200]: POST /js/info.js
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49188 Closing
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49186 Closing
+[Wed Jul  7 13:21:04 2021] 127.0.0.1:49190 Closing
+[Wed Jul  7 13:21:05 2021] 127.0.0.1:49192 Accepted
+[Wed Jul  7 13:21:05 2021] 127.0.0.1:49192 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:21:05 2021] 127.0.0.1:49192 Closing
+[Wed Jul  7 13:21:07 2021] 127.0.0.1:49194 Accepted
+[Wed Jul  7 13:21:07 2021] 127.0.0.1:49194 [200]: POST /php/info.php
+[Wed Jul  7 13:21:07 2021] 127.0.0.1:49194 Closing
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49196 Accepted
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49196 [200]: POST /
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49196 Closing
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49198 Accepted
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49198 [200]: POST /css/main.css
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49198 Closing
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49200 Accepted
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49202 Accepted
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49200 [200]: POST /js/main.js
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49200 Closing
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49204 Accepted
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49202 [200]: POST /js/info.js
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49206 Accepted
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49202 Closing
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49206 [200]: POST /js/location.js
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49206 Closing
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49204 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:21:20 2021] 127.0.0.1:49204 Closing
+[Wed Jul  7 13:21:21 2021] 127.0.0.1:49208 Accepted
+[Wed Jul  7 13:21:21 2021] 127.0.0.1:49208 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:21:21 2021] 127.0.0.1:49208 Closing
+[Wed Jul  7 13:21:23 2021] 127.0.0.1:49210 Accepted
+[Wed Jul  7 13:21:23 2021] 127.0.0.1:49210 [200]: POST /php/info.php
+[Wed Jul  7 13:21:23 2021] 127.0.0.1:49210 Closing
+[Wed Jul  7 13:21:27 2021] 127.0.0.1:49212 Accepted
+[Wed Jul  7 13:21:27 2021] 127.0.0.1:49212 [200]: POST /
+[Wed Jul  7 13:21:27 2021] 127.0.0.1:49212 Closing
+[Wed Jul  7 13:21:27 2021] 127.0.0.1:49214 Accepted
+[Wed Jul  7 13:21:27 2021] 127.0.0.1:49214 [200]: POST /css/main.css
+[Wed Jul  7 13:21:27 2021] 127.0.0.1:49214 Closing
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49216 Accepted
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49216 [200]: POST /js/main.js
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49216 Closing
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49218 Accepted
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49218 [200]: POST /js/location.js
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49218 Closing
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49220 Accepted
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49222 Accepted
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49222 [200]: POST /js/info.js
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49222 Closing
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49220 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49220 Closing
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49224 Accepted
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49224 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:21:28 2021] 127.0.0.1:49224 Closing
+[Wed Jul  7 13:21:30 2021] 127.0.0.1:49226 Accepted
+[Wed Jul  7 13:21:30 2021] 127.0.0.1:49226 [200]: POST /php/info.php
+[Wed Jul  7 13:21:30 2021] 127.0.0.1:49226 Closing
+[Wed Jul  7 13:21:53 2021] 127.0.0.1:49228 Accepted
+[Wed Jul  7 13:21:53 2021] 127.0.0.1:49228 [200]: POST /
+[Wed Jul  7 13:21:53 2021] 127.0.0.1:49228 Closing
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49230 Accepted
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49230 [200]: POST /css/main.css
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49230 Closing
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49232 Accepted
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49232 [200]: POST /js/main.js
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49232 Closing
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49234 Accepted
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49236 Accepted
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49234 [200]: POST /js/location.js
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49238 Accepted
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49236 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49238 [200]: POST /js/info.js
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49234 Closing
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49236 Closing
+[Wed Jul  7 13:21:54 2021] 127.0.0.1:49238 Closing
+[Wed Jul  7 13:21:55 2021] 127.0.0.1:49240 Accepted
+[Wed Jul  7 13:21:55 2021] 127.0.0.1:49240 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:21:55 2021] 127.0.0.1:49240 Closing
+[Wed Jul  7 13:21:57 2021] 127.0.0.1:49242 Accepted
+[Wed Jul  7 13:21:57 2021] 127.0.0.1:49242 [200]: POST /php/info.php
+[Wed Jul  7 13:21:57 2021] 127.0.0.1:49242 Closing
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49244 Accepted
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49244 [200]: POST /
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49244 Closing
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49246 Accepted
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49246 [200]: POST /css/main.css
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49246 Closing
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49248 Accepted
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49248 [200]: POST /js/main.js
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49248 Closing
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49250 Accepted
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49252 Accepted
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49250 [200]: POST /js/location.js
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49254 Accepted
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49252 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49254 [200]: POST /js/info.js
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49250 Closing
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49252 Closing
+[Wed Jul  7 13:22:08 2021] 127.0.0.1:49254 Closing
+[Wed Jul  7 13:22:09 2021] 127.0.0.1:49256 Accepted
+[Wed Jul  7 13:22:09 2021] 127.0.0.1:49256 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:22:09 2021] 127.0.0.1:49256 Closing
+[Wed Jul  7 13:22:10 2021] 127.0.0.1:49258 Accepted
+[Wed Jul  7 13:22:10 2021] 127.0.0.1:49258 [200]: POST /php/info.php
+[Wed Jul  7 13:22:10 2021] 127.0.0.1:49258 Closing
+[Wed Jul  7 13:22:23 2021] 127.0.0.1:49260 Accepted
+[Wed Jul  7 13:22:23 2021] 127.0.0.1:49260 [200]: POST /
+[Wed Jul  7 13:22:23 2021] 127.0.0.1:49260 Closing
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49262 Accepted
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49262 [200]: POST /css/main.css
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49262 Closing
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49264 Accepted
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49266 Accepted
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49268 Accepted
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49268 [200]: POST /js/location.js
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49268 Closing
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49270 Accepted
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49264 [200]: POST /js/info.js
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49264 Closing
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49270 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49266 [200]: POST /js/main.js
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49270 Closing
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49266 Closing
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49272 Accepted
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49272 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:22:28 2021] 127.0.0.1:49272 Closing
+[Wed Jul  7 13:22:29 2021] 127.0.0.1:49274 Accepted
+[Wed Jul  7 13:22:29 2021] 127.0.0.1:49274 [200]: POST /php/info.php
+[Wed Jul  7 13:22:29 2021] 127.0.0.1:49274 Closing
+[Wed Jul  7 13:22:47 2021] 127.0.0.1:49276 Accepted
+[Wed Jul  7 13:22:47 2021] 127.0.0.1:49276 [200]: POST /
+[Wed Jul  7 13:22:47 2021] 127.0.0.1:49276 Closing
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49278 Accepted
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49280 Accepted
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49278 [200]: POST /css/main.css
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49280 [200]: POST /js/main.js
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49278 Closing
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49280 Closing
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49282 Accepted
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49284 Accepted
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49286 Accepted
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49284 [200]: POST /js/location.js
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49282 [200]: POST /js/info.js
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49284 Closing
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49282 Closing
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49286 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:22:48 2021] 127.0.0.1:49286 Closing
+[Wed Jul  7 13:22:49 2021] 127.0.0.1:49288 Accepted
+[Wed Jul  7 13:22:49 2021] 127.0.0.1:49288 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:22:49 2021] 127.0.0.1:49288 Closing
+[Wed Jul  7 13:22:50 2021] 127.0.0.1:49290 Accepted
+[Wed Jul  7 13:22:50 2021] 127.0.0.1:49290 [200]: POST /php/info.php
+[Wed Jul  7 13:22:50 2021] 127.0.0.1:49290 Closing
+[Wed Jul  7 13:22:57 2021] 34.77.162.21:51409 Accepted
+[Wed Jul  7 13:22:57 2021] 34.77.162.21:51409 Invalid request (Unsupported SSL request)
+[Wed Jul  7 13:22:57 2021] 34.77.162.21:51409 Closing
+[Wed Jul  7 13:24:09 2021] 127.0.0.1:49292 Accepted
+[Wed Jul  7 13:24:09 2021] 127.0.0.1:49292 [200]: POST /
+[Wed Jul  7 13:24:09 2021] 127.0.0.1:49292 Closing
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49294 Accepted
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49294 [200]: POST /css/main.css
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49294 Closing
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49296 Accepted
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49296 [200]: POST /js/main.js
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49296 Closing
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49298 Accepted
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49298 [200]: POST /js/location.js
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49298 Closing
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49300 Accepted
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49302 Accepted
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49302 [200]: POST /js/info.js
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49302 Closing
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49300 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49300 Closing
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49304 Accepted
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49304 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:24:10 2021] 127.0.0.1:49304 Closing
+[Wed Jul  7 13:24:13 2021] 127.0.0.1:49306 Accepted
+[Wed Jul  7 13:24:13 2021] 127.0.0.1:49306 [200]: POST /php/info.php
+[Wed Jul  7 13:24:13 2021] 127.0.0.1:49306 Closing
+[Wed Jul  7 13:24:16 2021] 127.0.0.1:49308 Accepted
+[Wed Jul  7 13:24:16 2021] 127.0.0.1:49308 [200]: POST /
+[Wed Jul  7 13:24:16 2021] 127.0.0.1:49308 Closing
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49310 Accepted
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49310 [200]: POST /css/main.css
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49310 Closing
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49312 Accepted
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49312 [200]: POST /js/main.js
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49312 Closing
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49314 Accepted
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49314 [200]: POST /js/location.js
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49314 Closing
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49316 Accepted
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49318 Accepted
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49316 [200]: POST /js/info.js
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49318 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49316 Closing
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49318 Closing
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49320 Accepted
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49320 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:24:17 2021] 127.0.0.1:49320 Closing
+[Wed Jul  7 13:24:19 2021] 127.0.0.1:49322 Accepted
+[Wed Jul  7 13:24:19 2021] 127.0.0.1:49322 [200]: POST /php/info.php
+[Wed Jul  7 13:24:19 2021] 127.0.0.1:49322 Closing
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49326 Accepted
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49326 [200]: POST /
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49326 Closing
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49328 Accepted
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49328 [200]: POST /css/main.css
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49328 Closing
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49330 Accepted
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49330 [200]: POST /js/main.js
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49330 Closing
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49332 Accepted
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49332 [200]: POST /js/location.js
+[Wed Jul  7 13:24:34 2021] 127.0.0.1:49332 Closing
+[Wed Jul  7 13:24:35 2021] 127.0.0.1:49334 Accepted
+[Wed Jul  7 13:24:35 2021] 127.0.0.1:49334 [200]: POST /js/info.js
+[Wed Jul  7 13:24:35 2021] 127.0.0.1:49334 Closing
+[Wed Jul  7 13:24:35 2021] 127.0.0.1:49336 Accepted
+[Wed Jul  7 13:24:35 2021] 127.0.0.1:49336 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:24:35 2021] 127.0.0.1:49336 Closing
+[Wed Jul  7 13:24:36 2021] 127.0.0.1:49338 Accepted
+[Wed Jul  7 13:24:36 2021] 127.0.0.1:49338 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:24:36 2021] 127.0.0.1:49338 Closing
+[Wed Jul  7 13:24:37 2021] 127.0.0.1:49340 Accepted
+[Wed Jul  7 13:24:37 2021] 127.0.0.1:49340 [200]: POST /php/info.php
+[Wed Jul  7 13:24:37 2021] 127.0.0.1:49340 Closing
+[Wed Jul  7 13:24:52 2021] 127.0.0.1:49348 Accepted
+[Wed Jul  7 13:24:52 2021] 127.0.0.1:49348 [200]: POST /
+[Wed Jul  7 13:24:52 2021] 127.0.0.1:49348 Closing
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49350 Accepted
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49350 [200]: POST /css/main.css
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49350 Closing
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49352 Accepted
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49352 [200]: POST /js/main.js
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49352 Closing
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49354 Accepted
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49354 [200]: POST /js/location.js
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49354 Closing
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49356 Accepted
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49358 Accepted
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49356 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49356 Closing
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49358 [200]: POST /js/info.js
+[Wed Jul  7 13:24:53 2021] 127.0.0.1:49358 Closing
+[Wed Jul  7 13:24:54 2021] 127.0.0.1:49360 Accepted
+[Wed Jul  7 13:24:54 2021] 127.0.0.1:49360 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:24:54 2021] 127.0.0.1:49360 Closing
+[Wed Jul  7 13:24:55 2021] 127.0.0.1:49362 Accepted
+[Wed Jul  7 13:24:55 2021] 127.0.0.1:49362 [200]: POST /php/info.php
+[Wed Jul  7 13:24:55 2021] 127.0.0.1:49362 Closing
+[Wed Jul  7 13:25:15 2021] 127.0.0.1:49364 Accepted
+[Wed Jul  7 13:25:15 2021] 127.0.0.1:49364 [200]: POST /
+[Wed Jul  7 13:25:15 2021] 127.0.0.1:49364 Closing
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49366 Accepted
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49366 [200]: POST /
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49366 Closing
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49368 Accepted
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49368 [200]: POST /css/main.css
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49368 Closing
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49370 Accepted
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49370 [200]: POST /js/main.js
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49370 Closing
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49372 Accepted
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49374 Accepted
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49376 Accepted
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49372 [200]: POST /js/info.js
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49372 Closing
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49376 [200]: POST /js/location.js
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49376 Closing
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49374 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:25:42 2021] 127.0.0.1:49374 Closing
+[Wed Jul  7 13:25:43 2021] 127.0.0.1:49378 Accepted
+[Wed Jul  7 13:25:43 2021] 127.0.0.1:49378 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:25:43 2021] 127.0.0.1:49378 Closing
+[Wed Jul  7 13:25:45 2021] 127.0.0.1:49380 Accepted
+[Wed Jul  7 13:25:45 2021] 127.0.0.1:49380 [200]: POST /php/info.php
+[Wed Jul  7 13:25:45 2021] 127.0.0.1:49380 Closing
+[Wed Jul  7 13:26:33 2021] 118.31.23.227:51162 Accepted
+[Wed Jul  7 13:26:33 2021] 118.31.23.227:51162 Invalid request (Unexpected EOF)
+[Wed Jul  7 13:26:33 2021] 118.31.23.227:51162 Closing
+[Wed Jul  7 13:26:34 2021] 118.31.23.227:51198 Accepted
+[Wed Jul  7 13:26:34 2021] 118.31.23.227:51198 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Jul  7 13:26:34 2021] 118.31.23.227:51198 Closing
+[Wed Jul  7 13:26:36 2021] 127.0.0.1:49382 Accepted
+[Wed Jul  7 13:26:36 2021] 127.0.0.1:49382 [200]: POST /
+[Wed Jul  7 13:26:36 2021] 127.0.0.1:49382 Closing
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49384 Accepted
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49384 [200]: POST /css/main.css
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49384 Closing
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49386 Accepted
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49386 [200]: POST /js/main.js
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49386 Closing
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49388 Accepted
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49388 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49388 Closing
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49390 Accepted
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49390 [200]: POST /js/location.js
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49390 Closing
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49392 Accepted
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49392 [200]: POST /js/info.js
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49392 Closing
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49394 Accepted
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49394 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:26:37 2021] 127.0.0.1:49394 Closing
+[Wed Jul  7 13:26:40 2021] 127.0.0.1:49396 Accepted
+[Wed Jul  7 13:26:40 2021] 127.0.0.1:49396 [200]: POST /php/info.php
+[Wed Jul  7 13:26:40 2021] 127.0.0.1:49396 Closing
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49398 Accepted
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49398 [200]: POST /
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49398 Closing
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49400 Accepted
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49400 [200]: POST /css/main.css
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49400 Closing
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49402 Accepted
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49402 [200]: POST /js/main.js
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49402 Closing
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49404 Accepted
+[Wed Jul  7 13:26:51 2021] 127.0.0.1:49406 Accepted
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49404 [200]: POST /js/location.js
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49406 [200]: POST /js/info.js
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49404 Closing
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49406 Closing
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49408 Accepted
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49408 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49408 Closing
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49410 Accepted
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49410 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:26:52 2021] 127.0.0.1:49410 Closing
+[Wed Jul  7 13:26:54 2021] 127.0.0.1:49412 Accepted
+[Wed Jul  7 13:26:54 2021] 127.0.0.1:49412 [200]: POST /php/info.php
+[Wed Jul  7 13:26:54 2021] 127.0.0.1:49412 Closing
+[Wed Jul  7 13:28:25 2021] 127.0.0.1:49414 Accepted
+[Wed Jul  7 13:28:25 2021] 127.0.0.1:49414 [404]: POST /robots.txt - No such file or directory
+[Wed Jul  7 13:28:25 2021] 127.0.0.1:49414 Closing
+[Wed Jul  7 13:28:25 2021] 127.0.0.1:49416 Accepted
+[Wed Jul  7 13:28:25 2021] 127.0.0.1:49416 [200]: POST /
+[Wed Jul  7 13:28:25 2021] 127.0.0.1:49416 Closing
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49418 Accepted
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49418 [200]: POST /css/main.css
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49418 Closing
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49420 Accepted
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49420 [200]: POST /js/main.js
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49420 Closing
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49422 Accepted
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49424 Accepted
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49422 [200]: POST /js/location.js
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49426 Accepted
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49424 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49426 [200]: POST /js/info.js
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49422 Closing
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49424 Closing
+[Wed Jul  7 13:28:26 2021] 127.0.0.1:49426 Closing
+[Wed Jul  7 13:28:27 2021] 127.0.0.1:49428 Accepted
+[Wed Jul  7 13:28:27 2021] 127.0.0.1:49428 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:28:27 2021] 127.0.0.1:49428 Closing
+[Wed Jul  7 13:28:28 2021] 127.0.0.1:49430 Accepted
+[Wed Jul  7 13:28:28 2021] 127.0.0.1:49430 [200]: POST /
+[Wed Jul  7 13:28:28 2021] 127.0.0.1:49430 Closing
+[Wed Jul  7 13:28:29 2021] 127.0.0.1:49432 Accepted
+[Wed Jul  7 13:28:29 2021] 127.0.0.1:49432 [200]: POST /php/info.php
+[Wed Jul  7 13:28:29 2021] 127.0.0.1:49432 Closing
+[Wed Jul  7 13:29:13 2021] 127.0.0.1:49434 Accepted
+[Wed Jul  7 13:29:13 2021] 127.0.0.1:49434 [200]: POST /
+[Wed Jul  7 13:29:13 2021] 127.0.0.1:49434 Closing
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49436 Accepted
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49436 [200]: POST /css/main.css
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49436 Closing
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49438 Accepted
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49440 Accepted
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49438 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49442 Accepted
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49438 Closing
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49444 Accepted
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49440 [200]: POST /js/main.js
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49442 [200]: POST /js/info.js
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49444 [200]: POST /js/location.js
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49440 Closing
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49442 Closing
+[Wed Jul  7 13:29:14 2021] 127.0.0.1:49444 Closing
+[Wed Jul  7 13:29:15 2021] 127.0.0.1:49446 Accepted
+[Wed Jul  7 13:29:15 2021] 127.0.0.1:49446 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:29:15 2021] 127.0.0.1:49446 Closing
+[Wed Jul  7 13:29:17 2021] 127.0.0.1:49448 Accepted
+[Wed Jul  7 13:29:17 2021] 127.0.0.1:49448 [200]: POST /php/info.php
+[Wed Jul  7 13:29:17 2021] 127.0.0.1:49448 Closing
+[Wed Jul  7 13:29:26 2021] 127.0.0.1:49450 Accepted
+[Wed Jul  7 13:29:26 2021] 127.0.0.1:49450 [200]: POST /
+[Wed Jul  7 13:29:26 2021] 127.0.0.1:49450 Closing
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49452 Accepted
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49452 [200]: POST /css/main.css
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49452 Closing
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49454 Accepted
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49454 [200]: POST /js/main.js
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49454 Closing
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49456 Accepted
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49456 [200]: POST /js/location.js
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49456 Closing
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49458 Accepted
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49460 Accepted
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49458 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49460 [200]: POST /js/info.js
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49458 Closing
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49460 Closing
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49462 Accepted
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49462 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:29:27 2021] 127.0.0.1:49462 Closing
+[Wed Jul  7 13:29:29 2021] 127.0.0.1:49464 Accepted
+[Wed Jul  7 13:29:29 2021] 127.0.0.1:49464 [200]: POST /php/info.php
+[Wed Jul  7 13:29:29 2021] 127.0.0.1:49464 Closing
+[Wed Jul  7 13:29:58 2021] 127.0.0.1:49466 Accepted
+[Wed Jul  7 13:29:58 2021] 127.0.0.1:49466 [200]: POST /
+[Wed Jul  7 13:29:58 2021] 127.0.0.1:49466 Closing
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49468 Accepted
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49468 [200]: POST /css/main.css
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49468 Closing
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49470 Accepted
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49470 [200]: POST /js/main.js
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49470 Closing
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49472 Accepted
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49474 Accepted
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49474 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49474 Closing
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49476 Accepted
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49472 [200]: POST /js/info.js
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49476 [200]: POST /js/location.js
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49472 Closing
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49476 Closing
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49478 Accepted
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49478 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:29:59 2021] 127.0.0.1:49478 Closing
+[Wed Jul  7 13:30:02 2021] 127.0.0.1:49480 Accepted
+[Wed Jul  7 13:30:02 2021] 127.0.0.1:49480 [200]: POST /php/info.php
+[Wed Jul  7 13:30:02 2021] 127.0.0.1:49480 Closing
+[Wed Jul  7 13:30:44 2021] 127.0.0.1:49486 Accepted
+[Wed Jul  7 13:30:44 2021] 127.0.0.1:49486 [200]: POST /
+[Wed Jul  7 13:30:44 2021] 127.0.0.1:49486 Closing
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49488 Accepted
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49488 [200]: POST /css/main.css
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49488 Closing
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49490 Accepted
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49490 [200]: POST /js/main.js
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49490 Closing
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49492 Accepted
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49494 Accepted
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49496 Accepted
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49492 [200]: POST /js/info.js
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49494 [200]: POST /js/location.js
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49496 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49492 Closing
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49494 Closing
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49496 Closing
+[Wed Jul  7 13:30:45 2021] 127.0.0.1:49498 Accepted
+[Wed Jul  7 13:30:46 2021] 127.0.0.1:49498 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:30:46 2021] 127.0.0.1:49498 Closing
+[Wed Jul  7 13:30:48 2021] 127.0.0.1:49500 Accepted
+[Wed Jul  7 13:30:48 2021] 127.0.0.1:49500 [200]: POST /php/info.php
+[Wed Jul  7 13:30:48 2021] 127.0.0.1:49500 Closing
+[Wed Jul  7 13:31:09 2021] 127.0.0.1:49502 Accepted
+[Wed Jul  7 13:31:09 2021] 127.0.0.1:49502 [200]: POST /
+[Wed Jul  7 13:31:09 2021] 127.0.0.1:49502 Closing
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49504 Accepted
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49504 [200]: POST /css/main.css
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49504 Closing
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49506 Accepted
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49508 Accepted
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49510 Accepted
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49506 [200]: POST /js/main.js
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49506 Closing
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49510 [200]: POST /js/info.js
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49510 Closing
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49508 [200]: POST /js/location.js
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49508 Closing
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49512 Accepted
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49512 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:31:10 2021] 127.0.0.1:49512 Closing
+[Wed Jul  7 13:31:11 2021] 127.0.0.1:49514 Accepted
+[Wed Jul  7 13:31:11 2021] 127.0.0.1:49514 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:31:11 2021] 127.0.0.1:49514 Closing
+[Wed Jul  7 13:31:12 2021] 127.0.0.1:49516 Accepted
+[Wed Jul  7 13:31:12 2021] 127.0.0.1:49516 [200]: POST /php/info.php
+[Wed Jul  7 13:31:12 2021] 127.0.0.1:49516 Closing
+[Wed Jul  7 13:31:48 2021] 127.0.0.1:49518 Accepted
+[Wed Jul  7 13:31:48 2021] 127.0.0.1:49518 [200]: POST /
+[Wed Jul  7 13:31:48 2021] 127.0.0.1:49518 Closing
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49520 Accepted
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49520 [200]: POST /css/main.css
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49520 Closing
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49522 Accepted
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49522 [200]: POST /js/main.js
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49522 Closing
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49524 Accepted
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49526 Accepted
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49524 [200]: POST /js/info.js
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49524 Closing
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49526 [200]: POST /js/location.js
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49526 Closing
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49528 Accepted
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49528 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49528 Closing
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49530 Accepted
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49530 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:31:49 2021] 127.0.0.1:49530 Closing
+[Wed Jul  7 13:31:51 2021] 127.0.0.1:49532 Accepted
+[Wed Jul  7 13:31:51 2021] 127.0.0.1:49532 [200]: POST /php/info.php
+[Wed Jul  7 13:31:51 2021] 127.0.0.1:49532 Closing
+[Wed Jul  7 13:32:26 2021] 127.0.0.1:49534 Accepted
+[Wed Jul  7 13:32:26 2021] 127.0.0.1:49534 [404]: POST /robots.txt - No such file or directory
+[Wed Jul  7 13:32:26 2021] 127.0.0.1:49534 Closing
+[Wed Jul  7 13:32:30 2021] 127.0.0.1:49536 Accepted
+[Wed Jul  7 13:32:30 2021] 127.0.0.1:49536 [200]: POST /
+[Wed Jul  7 13:32:30 2021] 127.0.0.1:49536 Closing
+[Wed Jul  7 13:32:37 2021] 41.34.233.249:59276 Accepted
+[Wed Jul  7 13:32:37 2021] 41.34.233.249:59276 Invalid request (Unexpected EOF)
+[Wed Jul  7 13:32:37 2021] 41.34.233.249:59276 Closing
+[Wed Jul  7 13:32:37 2021] 41.34.233.249:59278 Accepted
+[Wed Jul  7 13:32:37 2021] 41.34.233.249:59278 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Jul  7 13:32:37 2021] 41.34.233.249:59278 Closing
+[Wed Jul  7 13:33:41 2021] 127.0.0.1:49538 Accepted
+[Wed Jul  7 13:33:41 2021] 127.0.0.1:49538 [200]: POST /
+[Wed Jul  7 13:33:41 2021] 127.0.0.1:49538 Closing
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49540 Accepted
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49540 [200]: POST /css/main.css
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49540 Closing
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49542 Accepted
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49544 Accepted
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49544 [200]: POST /js/main.js
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49544 Closing
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49546 Accepted
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49542 [200]: POST /js/location.js
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49548 Accepted
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49546 [200]: POST /js/info.js
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49548 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49542 Closing
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49546 Closing
+[Wed Jul  7 13:33:42 2021] 127.0.0.1:49548 Closing
+[Wed Jul  7 13:33:43 2021] 127.0.0.1:49550 Accepted
+[Wed Jul  7 13:33:43 2021] 127.0.0.1:49550 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:33:43 2021] 127.0.0.1:49550 Closing
+[Wed Jul  7 13:33:45 2021] 127.0.0.1:49552 Accepted
+[Wed Jul  7 13:33:45 2021] 127.0.0.1:49552 [200]: POST /php/info.php
+[Wed Jul  7 13:33:45 2021] 127.0.0.1:49552 Closing
+[Wed Jul  7 13:33:56 2021] 127.0.0.1:49554 Accepted
+[Wed Jul  7 13:33:56 2021] 127.0.0.1:49554 [200]: POST /
+[Wed Jul  7 13:33:56 2021] 127.0.0.1:49554 Closing
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49556 Accepted
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49556 [200]: POST /css/main.css
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49556 Closing
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49558 Accepted
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49558 [200]: POST /js/main.js
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49558 Closing
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49560 Accepted
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49560 [200]: POST /js/location.js
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49560 Closing
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49562 Accepted
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49564 Accepted
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49562 [200]: POST /js/info.js
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49564 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49562 Closing
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49564 Closing
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49566 Accepted
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49566 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:33:57 2021] 127.0.0.1:49566 Closing
+[Wed Jul  7 13:33:59 2021] 127.0.0.1:49568 Accepted
+[Wed Jul  7 13:33:59 2021] 127.0.0.1:49568 [200]: POST /php/info.php
+[Wed Jul  7 13:33:59 2021] 127.0.0.1:49568 Closing
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49570 Accepted
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49570 [200]: POST /
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49570 Closing
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49572 Accepted
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49572 [200]: POST /css/main.css
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49572 Closing
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49574 Accepted
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49576 Accepted
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49578 Accepted
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49574 [200]: POST /js/location.js
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49574 Closing
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49576 [200]: POST /js/main.js
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49576 Closing
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49578 [200]: POST /js/info.js
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49578 Closing
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49580 Accepted
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49580 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:34:13 2021] 127.0.0.1:49580 Closing
+[Wed Jul  7 13:34:14 2021] 127.0.0.1:49582 Accepted
+[Wed Jul  7 13:34:14 2021] 127.0.0.1:49582 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:34:14 2021] 127.0.0.1:49582 Closing
+[Wed Jul  7 13:34:15 2021] 127.0.0.1:49584 Accepted
+[Wed Jul  7 13:34:15 2021] 127.0.0.1:49584 [200]: POST /php/info.php
+[Wed Jul  7 13:34:15 2021] 127.0.0.1:49584 Closing
+[Wed Jul  7 13:34:22 2021] 127.0.0.1:49586 Accepted
+[Wed Jul  7 13:34:22 2021] 127.0.0.1:49586 [200]: POST /
+[Wed Jul  7 13:34:22 2021] 127.0.0.1:49586 Closing
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49588 Accepted
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49588 [200]: POST /css/main.css
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49588 Closing
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49590 Accepted
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49590 [200]: POST /js/main.js
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49590 Closing
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49592 Accepted
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49592 [200]: POST /js/location.js
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49592 Closing
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49594 Accepted
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49596 Accepted
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49594 [200]: POST /js/info.js
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49596 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49594 Closing
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49596 Closing
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49598 Accepted
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49598 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:34:23 2021] 127.0.0.1:49598 Closing
+[Wed Jul  7 13:34:24 2021] 127.0.0.1:49600 Accepted
+[Wed Jul  7 13:34:24 2021] 127.0.0.1:49600 [200]: POST /php/info.php
+[Wed Jul  7 13:34:24 2021] 127.0.0.1:49600 Closing
+[Wed Jul  7 13:34:39 2021] 127.0.0.1:49602 Accepted
+[Wed Jul  7 13:34:39 2021] 127.0.0.1:49602 [200]: POST /
+[Wed Jul  7 13:34:39 2021] 127.0.0.1:49602 Closing
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49604 Accepted
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49606 Accepted
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49604 [200]: POST /css/main.css
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49608 Accepted
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49606 [200]: POST /js/main.js
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49608 [200]: POST /js/location.js
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49604 Closing
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49606 Closing
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49608 Closing
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49610 Accepted
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49612 Accepted
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49610 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49612 [200]: POST /js/info.js
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49610 Closing
+[Wed Jul  7 13:34:40 2021] 127.0.0.1:49612 Closing
+[Wed Jul  7 13:34:41 2021] 127.0.0.1:49614 Accepted
+[Wed Jul  7 13:34:41 2021] 127.0.0.1:49614 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:34:41 2021] 127.0.0.1:49614 Closing
+[Wed Jul  7 13:34:43 2021] 127.0.0.1:49616 Accepted
+[Wed Jul  7 13:34:43 2021] 127.0.0.1:49616 [200]: POST /php/info.php
+[Wed Jul  7 13:34:43 2021] 127.0.0.1:49616 Closing
+[Wed Jul  7 13:34:50 2021] 127.0.0.1:49620 Accepted
+[Wed Jul  7 13:34:50 2021] 127.0.0.1:49620 [200]: POST /
+[Wed Jul  7 13:34:50 2021] 127.0.0.1:49620 Closing
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49622 Accepted
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49624 Accepted
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49622 [200]: POST /css/main.css
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49626 Accepted
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49624 [200]: POST /js/location.js
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49628 Accepted
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49626 [200]: POST /js/main.js
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49622 Closing
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49628 [200]: POST /js/info.js
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49624 Closing
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49626 Closing
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49628 Closing
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49630 Accepted
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49630 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:34:51 2021] 127.0.0.1:49630 Closing
+[Wed Jul  7 13:34:52 2021] 127.0.0.1:49632 Accepted
+[Wed Jul  7 13:34:52 2021] 127.0.0.1:49632 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:34:52 2021] 127.0.0.1:49632 Closing
+[Wed Jul  7 13:34:53 2021] 127.0.0.1:49634 Accepted
+[Wed Jul  7 13:34:53 2021] 127.0.0.1:49634 [200]: POST /php/info.php
+[Wed Jul  7 13:34:53 2021] 127.0.0.1:49634 Closing
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49636 Accepted
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49636 [200]: POST /
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49636 Closing
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49638 Accepted
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49640 Accepted
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49638 [200]: POST /js/main.js
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49640 [200]: POST /css/main.css
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49638 Closing
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49640 Closing
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49642 Accepted
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49644 Accepted
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49642 [200]: POST /js/location.js
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49646 Accepted
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49644 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49646 [200]: POST /js/info.js
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49642 Closing
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49644 Closing
+[Wed Jul  7 13:35:24 2021] 127.0.0.1:49646 Closing
+[Wed Jul  7 13:35:25 2021] 127.0.0.1:49648 Accepted
+[Wed Jul  7 13:35:25 2021] 127.0.0.1:49648 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:35:25 2021] 127.0.0.1:49648 Closing
+[Wed Jul  7 13:35:27 2021] 127.0.0.1:49650 Accepted
+[Wed Jul  7 13:35:27 2021] 127.0.0.1:49650 [200]: POST /php/info.php
+[Wed Jul  7 13:35:27 2021] 127.0.0.1:49650 Closing
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49682 Accepted
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49682 [200]: POST /
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49682 Closing
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49684 Accepted
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49686 Accepted
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49684 [200]: POST /css/main.css
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49684 Closing
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49686 [200]: POST /js/main.js
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49686 Closing
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49688 Accepted
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49688 [200]: POST /js/location.js
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49688 Closing
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49690 Accepted
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49692 Accepted
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49690 [200]: POST /js/info.js
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49692 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49690 Closing
+[Wed Jul  7 13:36:11 2021] 127.0.0.1:49692 Closing
+[Wed Jul  7 13:36:12 2021] 127.0.0.1:49694 Accepted
+[Wed Jul  7 13:36:12 2021] 127.0.0.1:49694 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:36:12 2021] 127.0.0.1:49694 Closing
+[Wed Jul  7 13:36:14 2021] 127.0.0.1:49696 Accepted
+[Wed Jul  7 13:36:14 2021] 127.0.0.1:49696 [200]: POST /php/info.php
+[Wed Jul  7 13:36:14 2021] 127.0.0.1:49696 Closing
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49698 Accepted
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49698 [200]: POST /
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49698 Closing
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49700 Accepted
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49700 [200]: POST /css/main.css
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49700 Closing
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49702 Accepted
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49704 Accepted
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49704 [200]: POST /js/location.js
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49702 [200]: POST /js/main.js
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49704 Closing
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49702 Closing
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49706 Accepted
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49708 Accepted
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49706 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49708 [200]: POST /js/info.js
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49706 Closing
+[Wed Jul  7 13:36:29 2021] 127.0.0.1:49708 Closing
+[Wed Jul  7 13:36:30 2021] 127.0.0.1:49710 Accepted
+[Wed Jul  7 13:36:30 2021] 127.0.0.1:49710 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:36:30 2021] 127.0.0.1:49710 Closing
+[Wed Jul  7 13:36:31 2021] 127.0.0.1:49712 Accepted
+[Wed Jul  7 13:36:31 2021] 127.0.0.1:49712 [200]: POST /php/info.php
+[Wed Jul  7 13:36:31 2021] 127.0.0.1:49712 Closing
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49716 Accepted
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49716 [200]: POST /
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49716 Closing
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49718 Accepted
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49718 [200]: POST /css/main.css
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49718 Closing
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49720 Accepted
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49722 Accepted
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49720 [200]: POST /js/main.js
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49724 Accepted
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49722 [200]: POST /js/info.js
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49726 Accepted
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49724 [200]: POST /js/location.js
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49720 Closing
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49726 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49722 Closing
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49724 Closing
+[Wed Jul  7 13:37:01 2021] 127.0.0.1:49726 Closing
+[Wed Jul  7 13:37:02 2021] 127.0.0.1:49728 Accepted
+[Wed Jul  7 13:37:02 2021] 127.0.0.1:49728 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:37:02 2021] 127.0.0.1:49728 Closing
+[Wed Jul  7 13:37:04 2021] 127.0.0.1:49730 Accepted
+[Wed Jul  7 13:37:04 2021] 127.0.0.1:49730 [200]: POST /php/info.php
+[Wed Jul  7 13:37:04 2021] 127.0.0.1:49730 Closing
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49732 Accepted
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49732 [200]: POST /
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49732 Closing
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49734 Accepted
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49734 [200]: POST /css/main.css
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49734 Closing
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49736 Accepted
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49736 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49738 Accepted
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49736 Closing
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49738 [200]: POST /js/info.js
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49738 Closing
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49740 Accepted
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49742 Accepted
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49742 [200]: POST /js/location.js
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49742 Closing
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49740 [200]: POST /js/main.js
+[Wed Jul  7 13:37:10 2021] 127.0.0.1:49740 Closing
+[Wed Jul  7 13:37:11 2021] 127.0.0.1:49744 Accepted
+[Wed Jul  7 13:37:11 2021] 127.0.0.1:49744 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:37:11 2021] 127.0.0.1:49744 Closing
+[Wed Jul  7 13:37:13 2021] 127.0.0.1:49746 Accepted
+[Wed Jul  7 13:37:13 2021] 127.0.0.1:49746 [200]: POST /php/info.php
+[Wed Jul  7 13:37:13 2021] 127.0.0.1:49746 Closing
+[Wed Jul  7 13:37:30 2021] 127.0.0.1:49748 Accepted
+[Wed Jul  7 13:37:30 2021] PHP Notice:  Undefined index: Una in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 5
+[Wed Jul  7 13:37:30 2021] PHP Notice:  Undefined index: Time in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 6
+[Wed Jul  7 13:37:30 2021] PHP Notice:  Undefined index: Unk in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 7
+[Wed Jul  7 13:37:30 2021] 127.0.0.1:49748 [200]: POST /php/error.php
+[Wed Jul  7 13:37:30 2021] 127.0.0.1:49748 Closing
+[Wed Jul  7 13:37:38 2021] 127.0.0.1:49752 Accepted
+[Wed Jul  7 13:37:38 2021] PHP Notice:  Undefined index: Una in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 5
+[Wed Jul  7 13:37:38 2021] PHP Notice:  Undefined index: Time in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 6
+[Wed Jul  7 13:37:38 2021] PHP Notice:  Undefined index: Unk in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 7
+[Wed Jul  7 13:37:38 2021] 127.0.0.1:49752 [200]: POST /php/error.php
+[Wed Jul  7 13:37:38 2021] 127.0.0.1:49752 Closing
+[Wed Jul  7 13:37:40 2021] 127.0.0.1:49756 Accepted
+[Wed Jul  7 13:37:40 2021] 127.0.0.1:49756 [200]: POST /php/result.php
+[Wed Jul  7 13:37:40 2021] 127.0.0.1:49756 Closing
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49758 Accepted
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49758 [200]: POST /
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49758 Closing
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49760 Accepted
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49760 [200]: POST /css/main.css
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49760 Closing
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49762 Accepted
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49762 [200]: POST /js/location.js
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49762 Closing
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49764 Accepted
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49766 Accepted
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49764 [200]: POST /js/main.js
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49764 Closing
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49768 Accepted
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49768 [200]: POST /js/info.js
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49768 Closing
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49766 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:38:17 2021] 127.0.0.1:49766 Closing
+[Wed Jul  7 13:38:18 2021] 127.0.0.1:49770 Accepted
+[Wed Jul  7 13:38:18 2021] 127.0.0.1:49770 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:38:18 2021] 127.0.0.1:49770 Closing
+[Wed Jul  7 13:38:20 2021] 127.0.0.1:49772 Accepted
+[Wed Jul  7 13:38:20 2021] 127.0.0.1:49772 [200]: POST /php/info.php
+[Wed Jul  7 13:38:20 2021] 127.0.0.1:49772 Closing
+[Wed Jul  7 13:38:21 2021] 127.0.0.1:49774 Accepted
+[Wed Jul  7 13:38:21 2021] 127.0.0.1:49774 [200]: POST /php/result.php
+[Wed Jul  7 13:38:21 2021] 127.0.0.1:49774 Closing
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49778 Accepted
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49778 [200]: POST /
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49778 Closing
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49780 Accepted
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49780 [200]: POST /css/main.css
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49780 Closing
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49782 Accepted
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49784 Accepted
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49782 [200]: POST /js/main.js
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49786 Accepted
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49784 [200]: POST /js/location.js
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49786 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49782 Closing
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49784 Closing
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49786 Closing
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49788 Accepted
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49788 [200]: POST /js/info.js
+[Wed Jul  7 13:38:27 2021] 127.0.0.1:49788 Closing
+[Wed Jul  7 13:38:28 2021] 127.0.0.1:49790 Accepted
+[Wed Jul  7 13:38:28 2021] 127.0.0.1:49790 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:38:28 2021] 127.0.0.1:49790 Closing
+[Wed Jul  7 13:38:44 2021] 127.0.0.1:49792 Accepted
+[Wed Jul  7 13:38:44 2021] PHP Notice:  Undefined index: Una in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 5
+[Wed Jul  7 13:38:44 2021] PHP Notice:  Undefined index: Time in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 6
+[Wed Jul  7 13:38:44 2021] PHP Notice:  Undefined index: Unk in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 7
+[Wed Jul  7 13:38:44 2021] 127.0.0.1:49792 [200]: POST /php/error.php
+[Wed Jul  7 13:38:44 2021] 127.0.0.1:49792 Closing
+[Wed Jul  7 13:38:44 2021] 127.0.0.1:49794 Accepted
+[Wed Jul  7 13:38:44 2021] 127.0.0.1:49794 [200]: POST /php/info.php
+[Wed Jul  7 13:38:44 2021] 127.0.0.1:49794 Closing
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49798 Accepted
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49798 [200]: POST /
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49798 Closing
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49800 Accepted
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49802 Accepted
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49804 Accepted
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49800 [200]: POST /css/main.css
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49806 Accepted
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49804 [200]: POST /js/info.js
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49806 [200]: POST /js/location.js
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49800 Closing
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49804 Closing
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49806 Closing
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49808 Accepted
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49802 [200]: POST /js/main.js
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49808 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49802 Closing
+[Wed Jul  7 13:38:47 2021] 127.0.0.1:49808 Closing
+[Wed Jul  7 13:38:48 2021] 127.0.0.1:49810 Accepted
+[Wed Jul  7 13:38:48 2021] 127.0.0.1:49810 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:38:48 2021] 127.0.0.1:49810 Closing
+[Wed Jul  7 13:38:49 2021] 127.0.0.1:49812 Accepted
+[Wed Jul  7 13:38:49 2021] 127.0.0.1:49812 [200]: POST /php/info.php
+[Wed Jul  7 13:38:49 2021] 127.0.0.1:49812 Closing
+[Wed Jul  7 13:41:30 2021] 121.130.101.214:39211 Accepted
+[Wed Jul  7 13:41:30 2021] 121.130.101.214:39211 Invalid request (Malformed HTTP request)
+[Wed Jul  7 13:41:30 2021] 121.130.101.214:39211 Closing
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49938 Accepted
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49938 [200]: POST /
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49938 Closing
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49940 Accepted
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49942 Accepted
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49940 [200]: POST /css/main.css
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49946 Accepted
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49942 [200]: POST /js/location.js
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49948 Accepted
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49946 [200]: POST /js/main.js
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49950 Accepted
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49940 Closing
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49948 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49942 Closing
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49950 [200]: POST /js/info.js
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49946 Closing
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49948 Closing
+[Wed Jul  7 13:42:04 2021] 127.0.0.1:49950 Closing
+[Wed Jul  7 13:42:05 2021] 127.0.0.1:49952 Accepted
+[Wed Jul  7 13:42:05 2021] 127.0.0.1:49952 [404]: POST /css/worldmap.jpg - No such file or directory
+[Wed Jul  7 13:42:05 2021] 127.0.0.1:49952 Closing
+[Wed Jul  7 13:42:05 2021] 127.0.0.1:49954 Accepted
+[Wed Jul  7 13:42:05 2021] 127.0.0.1:49954 [200]: POST /php/info.php
+[Wed Jul  7 13:42:05 2021] 127.0.0.1:49954 Closing
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49958 Accepted
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49958 [200]: POST /
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49958 Closing
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49960 Accepted
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49960 [200]: POST /css/main.css
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49960 Closing
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49962 Accepted
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49962 [200]: POST /js/main.js
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49962 Closing
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49964 Accepted
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49966 Accepted
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49964 [200]: POST /js/location.js
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49968 Accepted
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49966 [200]: POST /js/info.js
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49968 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49964 Closing
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49966 Closing
+[Wed Jul  7 13:42:17 2021] 127.0.0.1:49968 Closing
+[Wed Jul  7 13:42:18 2021] 127.0.0.1:49970 Accepted
+[Wed Jul  7 13:42:18 2021] 127.0.0.1:49970 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:42:18 2021] 127.0.0.1:49970 Closing
+[Wed Jul  7 13:42:18 2021] 127.0.0.1:49972 Accepted
+[Wed Jul  7 13:42:18 2021] 127.0.0.1:49972 [200]: POST /php/info.php
+[Wed Jul  7 13:42:18 2021] 127.0.0.1:49972 Closing
+[Wed Jul  7 13:42:37 2021] 127.0.0.1:49974 Accepted
+[Wed Jul  7 13:42:37 2021] 127.0.0.1:49974 [200]: POST /
+[Wed Jul  7 13:42:37 2021] 127.0.0.1:49974 Closing
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49976 Accepted
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49976 [200]: POST /css/main.css
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49976 Closing
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49978 Accepted
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49980 Accepted
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49978 [200]: POST /js/main.js
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49978 Closing
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49980 [200]: POST /js/location.js
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49980 Closing
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49982 Accepted
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49982 [200]: POST /js/info.js
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49982 Closing
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49984 Accepted
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49984 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:42:38 2021] 127.0.0.1:49984 Closing
+[Wed Jul  7 13:42:39 2021] 127.0.0.1:49986 Accepted
+[Wed Jul  7 13:42:39 2021] 127.0.0.1:49986 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:42:39 2021] 127.0.0.1:49986 Closing
+[Wed Jul  7 13:42:39 2021] 127.0.0.1:49988 Accepted
+[Wed Jul  7 13:42:39 2021] 127.0.0.1:49988 [200]: POST /php/info.php
+[Wed Jul  7 13:42:39 2021] 127.0.0.1:49988 Closing
+[Wed Jul  7 13:43:31 2021] 127.0.0.1:49998 Accepted
+[Wed Jul  7 13:43:31 2021] 127.0.0.1:49998 [200]: POST /
+[Wed Jul  7 13:43:31 2021] 127.0.0.1:49998 Closing
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50000 Accepted
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50002 Accepted
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50000 [200]: POST /js/main.js
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50002 [200]: POST /css/main.css
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50000 Closing
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50002 Closing
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50004 Accepted
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50006 Accepted
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50004 [200]: POST /js/location.js
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50008 Accepted
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50006 [200]: POST /js/info.js
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50008 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50004 Closing
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50006 Closing
+[Wed Jul  7 13:43:32 2021] 127.0.0.1:50008 Closing
+[Wed Jul  7 13:43:33 2021] 127.0.0.1:50010 Accepted
+[Wed Jul  7 13:43:33 2021] 127.0.0.1:50010 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:43:33 2021] 127.0.0.1:50010 Closing
+[Wed Jul  7 13:43:42 2021] 127.0.0.1:50012 Accepted
+[Wed Jul  7 13:43:42 2021] 127.0.0.1:50012 [200]: POST /php/info.php
+[Wed Jul  7 13:43:42 2021] 127.0.0.1:50012 Closing
+[Wed Jul  7 13:44:00 2021] 127.0.0.1:50014 Accepted
+[Wed Jul  7 13:44:00 2021] 127.0.0.1:50014 [200]: POST /
+[Wed Jul  7 13:44:00 2021] 127.0.0.1:50014 Closing
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50016 Accepted
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50016 [200]: POST /css/main.css
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50016 Closing
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50018 Accepted
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50020 Accepted
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50022 Accepted
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50018 [200]: POST /js/location.js
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50018 Closing
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50022 [200]: POST /js/info.js
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50022 Closing
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50020 [200]: POST /js/main.js
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50024 Accepted
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50020 Closing
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50024 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50024 Closing
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50026 Accepted
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50026 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:44:01 2021] 127.0.0.1:50026 Closing
+[Wed Jul  7 13:44:02 2021] 127.0.0.1:50028 Accepted
+[Wed Jul  7 13:44:02 2021] 127.0.0.1:50028 [200]: POST /php/info.php
+[Wed Jul  7 13:44:02 2021] 127.0.0.1:50028 Closing
+[Wed Jul  7 13:45:28 2021] 127.0.0.1:50032 Accepted
+[Wed Jul  7 13:45:28 2021] 127.0.0.1:50032 [200]: POST /
+[Wed Jul  7 13:45:28 2021] 127.0.0.1:50032 Closing
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50034 Accepted
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50034 [200]: POST /css/main.css
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50034 Closing
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50036 Accepted
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50036 [200]: POST /js/main.js
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50036 Closing
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50038 Accepted
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50038 [200]: POST /js/location.js
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50038 Closing
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50040 Accepted
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50040 [200]: POST /js/info.js
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50040 Closing
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50042 Accepted
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50042 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:45:29 2021] 127.0.0.1:50042 Closing
+[Wed Jul  7 13:45:30 2021] 127.0.0.1:50044 Accepted
+[Wed Jul  7 13:45:30 2021] 127.0.0.1:50044 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:45:30 2021] 127.0.0.1:50044 Closing
+[Wed Jul  7 13:45:32 2021] 127.0.0.1:50046 Accepted
+[Wed Jul  7 13:45:32 2021] 127.0.0.1:50046 [200]: POST /php/info.php
+[Wed Jul  7 13:45:32 2021] 127.0.0.1:50046 Closing
+[Wed Jul  7 13:45:55 2021] 127.0.0.1:50048 Accepted
+[Wed Jul  7 13:45:55 2021] 127.0.0.1:50048 [200]: POST /
+[Wed Jul  7 13:45:55 2021] 127.0.0.1:50048 Closing
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50050 Accepted
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50050 [200]: POST /css/main.css
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50050 Closing
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50052 Accepted
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50052 [200]: POST /js/main.js
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50052 Closing
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50054 Accepted
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50056 Accepted
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50058 Accepted
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50056 [200]: POST /js/location.js
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50058 [200]: POST /js/info.js
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50054 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50056 Closing
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50058 Closing
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50054 Closing
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50060 Accepted
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50060 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:45:56 2021] 127.0.0.1:50060 Closing
+[Wed Jul  7 13:45:58 2021] 127.0.0.1:50062 Accepted
+[Wed Jul  7 13:45:58 2021] 127.0.0.1:50062 [200]: POST /php/info.php
+[Wed Jul  7 13:45:58 2021] 127.0.0.1:50062 Closing
+[Wed Jul  7 13:46:07 2021] 127.0.0.1:50066 Accepted
+[Wed Jul  7 13:46:07 2021] PHP Notice:  Undefined index: Una in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 5
+[Wed Jul  7 13:46:07 2021] PHP Notice:  Undefined index: Time in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 6
+[Wed Jul  7 13:46:07 2021] PHP Notice:  Undefined index: Unk in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 7
+[Wed Jul  7 13:46:07 2021] 127.0.0.1:50066 [200]: POST /php/error.php
+[Wed Jul  7 13:46:07 2021] 127.0.0.1:50066 Closing
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50070 Accepted
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50070 [200]: POST /
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50070 Closing
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50072 Accepted
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50072 [200]: POST /css/main.css
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50072 Closing
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50074 Accepted
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50074 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50074 Closing
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50076 Accepted
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50078 Accepted
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50078 [200]: POST /js/main.js
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50076 [200]: POST /js/info.js
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50078 Closing
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50076 Closing
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50080 Accepted
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50080 [200]: POST /js/location.js
+[Wed Jul  7 13:46:55 2021] 127.0.0.1:50080 Closing
+[Wed Jul  7 13:46:56 2021] 127.0.0.1:50082 Accepted
+[Wed Jul  7 13:46:56 2021] 127.0.0.1:50082 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:46:56 2021] 127.0.0.1:50082 Closing
+[Wed Jul  7 13:46:58 2021] 127.0.0.1:50084 Accepted
+[Wed Jul  7 13:46:58 2021] 127.0.0.1:50084 [200]: POST /php/info.php
+[Wed Jul  7 13:46:58 2021] 127.0.0.1:50084 Closing
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50086 Accepted
+[Wed Jul  7 13:47:25 2021] PHP Notice:  Undefined index: Una in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 5
+[Wed Jul  7 13:47:25 2021] PHP Notice:  Undefined index: Time in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 6
+[Wed Jul  7 13:47:25 2021] PHP Notice:  Undefined index: Unk in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 7
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50086 [200]: POST /php/error.php
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50086 Closing
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50090 Accepted
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50090 [200]: POST /
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50090 Closing
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50092 Accepted
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50092 [200]: POST /css/main.css
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50092 Closing
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50094 Accepted
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50094 [200]: POST /js/main.js
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50094 Closing
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50096 Accepted
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50096 [200]: POST /js/location.js
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50096 Closing
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50098 Accepted
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50100 Accepted
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50100 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50098 [200]: POST /js/info.js
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50100 Closing
+[Wed Jul  7 13:47:25 2021] 127.0.0.1:50098 Closing
+[Wed Jul  7 13:47:26 2021] 127.0.0.1:50104 Accepted
+[Wed Jul  7 13:47:26 2021] 127.0.0.1:50104 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:47:26 2021] 127.0.0.1:50104 Closing
+[Wed Jul  7 13:47:28 2021] 127.0.0.1:50106 Accepted
+[Wed Jul  7 13:47:28 2021] 127.0.0.1:50106 [200]: POST /php/info.php
+[Wed Jul  7 13:47:28 2021] 127.0.0.1:50106 Closing
+[Wed Jul  7 13:47:32 2021] 127.0.0.1:50108 Accepted
+[Wed Jul  7 13:47:32 2021] PHP Notice:  Undefined index: Una in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 5
+[Wed Jul  7 13:47:32 2021] PHP Notice:  Undefined index: Time in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 6
+[Wed Jul  7 13:47:32 2021] PHP Notice:  Undefined index: Unk in /home/artem213101zse/seeker/template/nearyou/php/error.php on line 7
+[Wed Jul  7 13:47:32 2021] 127.0.0.1:50108 [200]: POST /php/error.php
+[Wed Jul  7 13:47:32 2021] 127.0.0.1:50108 Closing
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50112 Accepted
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50112 [200]: POST /
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50112 Closing
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50114 Accepted
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50114 [200]: POST /css/main.css
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50114 Closing
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50116 Accepted
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50116 [200]: POST /js/main.js
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50116 Closing
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50118 Accepted
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50118 [200]: POST /js/location.js
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50118 Closing
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50120 Accepted
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50120 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50122 Accepted
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50120 Closing
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50122 [200]: POST /js/info.js
+[Wed Jul  7 13:47:38 2021] 127.0.0.1:50122 Closing
+[Wed Jul  7 13:47:39 2021] 127.0.0.1:50124 Accepted
+[Wed Jul  7 13:47:39 2021] 127.0.0.1:50124 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:47:39 2021] 127.0.0.1:50124 Closing
+[Wed Jul  7 13:47:40 2021] 127.0.0.1:50128 Accepted
+[Wed Jul  7 13:47:40 2021] 127.0.0.1:50128 [200]: POST /php/info.php
+[Wed Jul  7 13:47:40 2021] 127.0.0.1:50128 Closing
+[Wed Jul  7 13:47:40 2021] 127.0.0.1:50130 Accepted
+[Wed Jul  7 13:47:40 2021] 127.0.0.1:50130 [200]: POST /php/result.php
+[Wed Jul  7 13:47:40 2021] 127.0.0.1:50130 Closing
+[Wed Jul  7 13:47:54 2021] 175.22.166.52:32908 Accepted
+[Wed Jul  7 13:47:54 2021] 175.22.166.52:32908 Invalid request (Unexpected EOF)
+[Wed Jul  7 13:47:54 2021] 175.22.166.52:32908 Closing
+[Wed Jul  7 13:47:59 2021] 175.22.166.52:32999 Accepted
+[Wed Jul  7 13:47:59 2021] 175.22.166.52:32999 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Jul  7 13:47:59 2021] 175.22.166.52:32999 Closing
+[Wed Jul  7 13:49:21 2021] 127.0.0.1:50134 Accepted
+[Wed Jul  7 13:49:21 2021] 127.0.0.1:50134 [200]: POST /
+[Wed Jul  7 13:49:21 2021] 127.0.0.1:50134 Closing
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50136 Accepted
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50136 [200]: POST /css/main.css
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50136 Closing
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50138 Accepted
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50140 Accepted
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50140 [200]: POST /js/location.js
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50140 Closing
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50138 [200]: POST /js/main.js
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50138 Closing
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50142 Accepted
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50142 [200]: POST /js/info.js
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50142 Closing
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50144 Accepted
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50144 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:49:22 2021] 127.0.0.1:50144 Closing
+[Wed Jul  7 13:49:23 2021] 127.0.0.1:50146 Accepted
+[Wed Jul  7 13:49:23 2021] 127.0.0.1:50146 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:49:23 2021] 127.0.0.1:50146 Closing
+[Wed Jul  7 13:49:25 2021] 127.0.0.1:50148 Accepted
+[Wed Jul  7 13:49:25 2021] 127.0.0.1:50148 [200]: POST /php/info.php
+[Wed Jul  7 13:49:25 2021] 127.0.0.1:50148 Closing
+[Wed Jul  7 13:49:27 2021] 127.0.0.1:50150 Accepted
+[Wed Jul  7 13:49:27 2021] 127.0.0.1:50150 [200]: POST /php/result.php
+[Wed Jul  7 13:49:27 2021] 127.0.0.1:50150 Closing
+[Wed Jul  7 13:51:49 2021] 127.0.0.1:50182 Accepted
+[Wed Jul  7 13:51:49 2021] 127.0.0.1:50182 [200]: POST /
+[Wed Jul  7 13:51:49 2021] 127.0.0.1:50182 Closing
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50184 Accepted
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50184 [200]: POST /css/main.css
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50184 Closing
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50186 Accepted
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50188 Accepted
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50190 Accepted
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50188 [200]: POST /js/location.js
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50188 Closing
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50190 [200]: POST /js/info.js
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50190 Closing
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50186 [200]: POST /js/main.js
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50186 Closing
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50192 Accepted
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50192 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:51:50 2021] 127.0.0.1:50192 Closing
+[Wed Jul  7 13:51:51 2021] 127.0.0.1:50194 Accepted
+[Wed Jul  7 13:51:51 2021] 127.0.0.1:50194 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:51:51 2021] 127.0.0.1:50194 Closing
+[Wed Jul  7 13:52:01 2021] 127.0.0.1:50196 Accepted
+[Wed Jul  7 13:52:01 2021] 127.0.0.1:50196 [200]: POST /php/info.php
+[Wed Jul  7 13:52:01 2021] 127.0.0.1:50196 Closing
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50238 Accepted
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50238 [200]: POST /
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50238 Closing
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50240 Accepted
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50240 [200]: POST /css/main.css
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50240 Closing
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50242 Accepted
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50242 [200]: POST /js/location.js
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50242 Closing
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50244 Accepted
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50246 Accepted
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50248 Accepted
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50248 [200]: POST /js/main.js
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50248 Closing
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50244 [200]: POST /js/info.js
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50244 Closing
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50246 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:53:17 2021] 127.0.0.1:50246 Closing
+[Wed Jul  7 13:53:18 2021] 127.0.0.1:50250 Accepted
+[Wed Jul  7 13:53:18 2021] 127.0.0.1:50250 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:53:18 2021] 127.0.0.1:50250 Closing
+[Wed Jul  7 13:53:27 2021] 127.0.0.1:50252 Accepted
+[Wed Jul  7 13:53:27 2021] 127.0.0.1:50252 [200]: POST /php/info.php
+[Wed Jul  7 13:53:27 2021] 127.0.0.1:50252 Closing
+[Wed Jul  7 13:53:30 2021] 127.0.0.1:50254 Accepted
+[Wed Jul  7 13:53:30 2021] 127.0.0.1:50254 [200]: POST /
+[Wed Jul  7 13:53:30 2021] 127.0.0.1:50254 Closing
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50256 Accepted
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50258 Accepted
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50256 [200]: POST /css/main.css
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50260 Accepted
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50258 [200]: POST /js/main.js
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50260 [200]: POST /js/location.js
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50256 Closing
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50258 Closing
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50260 Closing
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50264 Accepted
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50262 Accepted
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50262 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50262 Closing
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50264 [200]: POST /js/info.js
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50264 Closing
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50268 Accepted
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50268 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:53:31 2021] 127.0.0.1:50268 Closing
+[Wed Jul  7 13:53:36 2021] 127.0.0.1:50270 Accepted
+[Wed Jul  7 13:53:36 2021] 127.0.0.1:50270 [200]: POST /php/info.php
+[Wed Jul  7 13:53:36 2021] 127.0.0.1:50270 Closing
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50272 Accepted
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50272 [200]: POST /
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50272 Closing
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50274 Accepted
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50274 [200]: POST /css/main.css
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50274 Closing
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50276 Accepted
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50276 [200]: POST /js/main.js
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50276 Closing
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50278 Accepted
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50280 Accepted
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50278 [200]: POST /js/info.js
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50280 [200]: POST /js/location.js
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50278 Closing
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50280 Closing
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50282 Accepted
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50282 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:53:47 2021] 127.0.0.1:50282 Closing
+[Wed Jul  7 13:53:48 2021] 127.0.0.1:50284 Accepted
+[Wed Jul  7 13:53:48 2021] 127.0.0.1:50284 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:53:48 2021] 127.0.0.1:50284 Closing
+[Wed Jul  7 13:53:49 2021] 127.0.0.1:50286 Accepted
+[Wed Jul  7 13:53:49 2021] 127.0.0.1:50286 [200]: POST /php/info.php
+[Wed Jul  7 13:53:49 2021] 127.0.0.1:50286 Closing
+[Wed Jul  7 13:56:33 2021] 127.0.0.1:50356 Accepted
+[Wed Jul  7 13:56:33 2021] 127.0.0.1:50356 [200]: POST /
+[Wed Jul  7 13:56:33 2021] 127.0.0.1:50356 Closing
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50358 Accepted
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50358 [200]: POST /css/main.css
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50358 Closing
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50360 Accepted
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50362 Accepted
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50360 [200]: POST /js/main.js
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50362 [200]: POST /js/location.js
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50360 Closing
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50362 Closing
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50364 Accepted
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50364 [200]: POST /js/info.js
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50364 Closing
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50366 Accepted
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50366 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:56:38 2021] 127.0.0.1:50366 Closing
+[Wed Jul  7 13:56:39 2021] 127.0.0.1:50368 Accepted
+[Wed Jul  7 13:56:39 2021] 127.0.0.1:50368 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:56:39 2021] 127.0.0.1:50368 Closing
+[Wed Jul  7 13:56:41 2021] 127.0.0.1:50370 Accepted
+[Wed Jul  7 13:56:41 2021] 127.0.0.1:50370 [200]: POST /php/info.php
+[Wed Jul  7 13:56:41 2021] 127.0.0.1:50370 Closing
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50372 Accepted
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50372 [200]: POST /
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50372 Closing
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50374 Accepted
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50376 Accepted
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50378 Accepted
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50378 [200]: POST /js/location.js
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50378 Closing
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50380 Accepted
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50374 [200]: POST /js/info.js
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50376 [200]: POST /js/main.js
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50380 [200]: POST /css/main.css
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50374 Closing
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50376 Closing
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50380 Closing
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50382 Accepted
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50382 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:57:12 2021] 127.0.0.1:50382 Closing
+[Wed Jul  7 13:57:13 2021] 127.0.0.1:50384 Accepted
+[Wed Jul  7 13:57:13 2021] 127.0.0.1:50384 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:57:13 2021] 127.0.0.1:50384 Closing
+[Wed Jul  7 13:57:15 2021] 127.0.0.1:50386 Accepted
+[Wed Jul  7 13:57:15 2021] 127.0.0.1:50386 [200]: POST /php/info.php
+[Wed Jul  7 13:57:15 2021] 127.0.0.1:50386 Closing
+[Wed Jul  7 13:57:21 2021] 127.0.0.1:50388 Accepted
+[Wed Jul  7 13:57:21 2021] 127.0.0.1:50388 [200]: POST /php/info.php
+[Wed Jul  7 13:57:21 2021] 127.0.0.1:50388 Closing
+[Wed Jul  7 13:57:29 2021] 127.0.0.1:50390 Accepted
+[Wed Jul  7 13:57:29 2021] 127.0.0.1:50390 [200]: POST /php/info.php
+[Wed Jul  7 13:57:29 2021] 127.0.0.1:50390 Closing
+[Wed Jul  7 13:57:48 2021] 127.0.0.1:50392 Accepted
+[Wed Jul  7 13:57:48 2021] 127.0.0.1:50392 [200]: POST /
+[Wed Jul  7 13:57:48 2021] 127.0.0.1:50392 Closing
+[Wed Jul  7 13:58:22 2021] 127.0.0.1:50396 Accepted
+[Wed Jul  7 13:58:22 2021] 127.0.0.1:50396 [200]: POST /
+[Wed Jul  7 13:58:22 2021] 127.0.0.1:50396 Closing
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50398 Accepted
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50398 [200]: POST /css/main.css
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50398 Closing
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50400 Accepted
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50400 [200]: POST /js/main.js
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50400 Closing
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50402 Accepted
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50404 Accepted
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50402 [200]: POST /js/location.js
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50406 Accepted
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50402 Closing
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50406 [200]: POST /js/info.js
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50406 Closing
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50404 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:58:23 2021] 127.0.0.1:50404 Closing
+[Wed Jul  7 13:58:24 2021] 127.0.0.1:50408 Accepted
+[Wed Jul  7 13:58:24 2021] 127.0.0.1:50408 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:58:24 2021] 127.0.0.1:50408 Closing
+[Wed Jul  7 13:58:27 2021] 127.0.0.1:50410 Accepted
+[Wed Jul  7 13:58:27 2021] 127.0.0.1:50410 [200]: POST /php/info.php
+[Wed Jul  7 13:58:27 2021] 127.0.0.1:50410 Closing
+[Wed Jul  7 13:59:07 2021] 127.0.0.1:50416 Accepted
+[Wed Jul  7 13:59:07 2021] 127.0.0.1:50416 [200]: POST /
+[Wed Jul  7 13:59:07 2021] 127.0.0.1:50416 Closing
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50418 Accepted
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50418 [200]: POST /css/main.css
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50418 Closing
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50420 Accepted
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50420 [200]: POST /js/main.js
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50420 Closing
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50422 Accepted
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50422 [200]: POST /js/location.js
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50422 Closing
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50424 Accepted
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50426 Accepted
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50424 [200]: POST /js/info.js
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50426 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50424 Closing
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50426 Closing
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50428 Accepted
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50428 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:59:08 2021] 127.0.0.1:50428 Closing
+[Wed Jul  7 13:59:11 2021] 127.0.0.1:50430 Accepted
+[Wed Jul  7 13:59:11 2021] 127.0.0.1:50430 [200]: POST /php/info.php
+[Wed Jul  7 13:59:11 2021] 127.0.0.1:50430 Closing
+[Wed Jul  7 13:59:21 2021] 27.219.136.68:47537 Accepted
+[Wed Jul  7 13:59:21 2021] 27.219.136.68:47537 [200]: POST /boaform/admin/formLogin?username=admin&psd=admin
+[Wed Jul  7 13:59:21 2021] 27.219.136.68:47537 Closing
+[Wed Jul  7 13:59:27 2021] 127.0.0.1:50432 Accepted
+[Wed Jul  7 13:59:27 2021] 127.0.0.1:50432 [200]: POST /
+[Wed Jul  7 13:59:27 2021] 127.0.0.1:50432 Closing
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50434 Accepted
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50434 [200]: POST /css/main.css
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50434 Closing
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50436 Accepted
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50436 [200]: POST /js/main.js
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50436 Closing
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50438 Accepted
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50440 Accepted
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50442 Accepted
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50438 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50440 [200]: POST /js/location.js
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50442 [200]: POST /js/info.js
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50438 Closing
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50440 Closing
+[Wed Jul  7 13:59:28 2021] 127.0.0.1:50442 Closing
+[Wed Jul  7 13:59:29 2021] 127.0.0.1:50444 Accepted
+[Wed Jul  7 13:59:29 2021] 127.0.0.1:50444 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:59:29 2021] 127.0.0.1:50444 Closing
+[Wed Jul  7 13:59:31 2021] 127.0.0.1:50446 Accepted
+[Wed Jul  7 13:59:31 2021] 127.0.0.1:50446 [200]: POST /php/info.php
+[Wed Jul  7 13:59:31 2021] 127.0.0.1:50446 Closing
+[Wed Jul  7 13:59:52 2021] 127.0.0.1:50448 Accepted
+[Wed Jul  7 13:59:52 2021] 127.0.0.1:50448 [200]: POST /
+[Wed Jul  7 13:59:52 2021] 127.0.0.1:50448 Closing
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50450 Accepted
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50450 [200]: POST /css/main.css
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50450 Closing
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50452 Accepted
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50452 [200]: POST /js/main.js
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50452 Closing
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50454 Accepted
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50456 Accepted
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50454 [200]: POST /js/location.js
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50454 Closing
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50456 [200]: POST /js/info.js
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50456 Closing
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50458 Accepted
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50458 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 13:59:53 2021] 127.0.0.1:50458 Closing
+[Wed Jul  7 13:59:54 2021] 127.0.0.1:50460 Accepted
+[Wed Jul  7 13:59:54 2021] 127.0.0.1:50460 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 13:59:54 2021] 127.0.0.1:50460 Closing
+[Wed Jul  7 13:59:55 2021] 127.0.0.1:50462 Accepted
+[Wed Jul  7 13:59:55 2021] 127.0.0.1:50462 [200]: POST /php/info.php
+[Wed Jul  7 13:59:55 2021] 127.0.0.1:50462 Closing
+[Wed Jul  7 14:00:12 2021] 127.0.0.1:50464 Accepted
+[Wed Jul  7 14:00:12 2021] 127.0.0.1:50464 [200]: POST /
+[Wed Jul  7 14:00:12 2021] 127.0.0.1:50464 Closing
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50466 Accepted
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50466 [200]: POST /css/main.css
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50466 Closing
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50468 Accepted
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50468 [200]: POST /js/main.js
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50468 Closing
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50470 Accepted
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50472 Accepted
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50472 [200]: POST /js/location.js
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50472 Closing
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50470 [200]: POST /js/info.js
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50470 Closing
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50474 Accepted
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50474 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:00:13 2021] 127.0.0.1:50474 Closing
+[Wed Jul  7 14:00:14 2021] 127.0.0.1:50476 Accepted
+[Wed Jul  7 14:00:14 2021] 127.0.0.1:50476 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:00:14 2021] 127.0.0.1:50476 Closing
+[Wed Jul  7 14:00:15 2021] 127.0.0.1:50478 Accepted
+[Wed Jul  7 14:00:15 2021] 127.0.0.1:50478 [200]: POST /php/info.php
+[Wed Jul  7 14:00:15 2021] 127.0.0.1:50478 Closing
+[Wed Jul  7 14:00:21 2021] 127.0.0.1:50482 Accepted
+[Wed Jul  7 14:00:21 2021] 127.0.0.1:50482 [200]: POST /
+[Wed Jul  7 14:00:21 2021] 127.0.0.1:50482 Closing
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50484 Accepted
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50484 [200]: POST /css/main.css
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50484 Closing
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50486 Accepted
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50486 [200]: POST /js/main.js
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50486 Closing
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50488 Accepted
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50488 [200]: POST /js/location.js
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50488 Closing
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50490 Accepted
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50492 Accepted
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50490 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50492 [200]: POST /js/info.js
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50490 Closing
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50492 Closing
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50494 Accepted
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50494 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:00:22 2021] 127.0.0.1:50494 Closing
+[Wed Jul  7 14:00:23 2021] 127.0.0.1:50498 Accepted
+[Wed Jul  7 14:00:23 2021] 127.0.0.1:50498 [200]: POST /php/info.php
+[Wed Jul  7 14:00:23 2021] 127.0.0.1:50498 Closing
+[Wed Jul  7 14:00:31 2021] 127.0.0.1:50500 Accepted
+[Wed Jul  7 14:00:31 2021] 127.0.0.1:50500 [200]: POST /
+[Wed Jul  7 14:00:31 2021] 127.0.0.1:50500 Closing
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50504 Accepted
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50504 [200]: POST /css/main.css
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50504 Closing
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50506 Accepted
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50506 [200]: POST /js/main.js
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50506 Closing
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50508 Accepted
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50510 Accepted
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50508 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50512 Accepted
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50510 [200]: POST /js/location.js
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50508 Closing
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50510 Closing
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50512 [200]: POST /js/info.js
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50512 Closing
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50514 Accepted
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50514 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:00:32 2021] 127.0.0.1:50514 Closing
+[Wed Jul  7 14:00:35 2021] 127.0.0.1:50516 Accepted
+[Wed Jul  7 14:00:35 2021] 127.0.0.1:50516 [200]: POST /php/info.php
+[Wed Jul  7 14:00:35 2021] 127.0.0.1:50516 Closing
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50518 Accepted
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50518 [200]: POST /
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50518 Closing
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50520 Accepted
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50520 [200]: POST /css/main.css
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50520 Closing
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50522 Accepted
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50522 [200]: POST /js/main.js
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50522 Closing
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50524 Accepted
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50524 [200]: POST /js/location.js
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50524 Closing
+[Wed Jul  7 14:00:51 2021] 127.0.0.1:50526 Accepted
+[Wed Jul  7 14:00:52 2021] 127.0.0.1:50528 Accepted
+[Wed Jul  7 14:00:52 2021] 127.0.0.1:50528 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:00:52 2021] 127.0.0.1:50526 [200]: POST /js/info.js
+[Wed Jul  7 14:00:52 2021] 127.0.0.1:50528 Closing
+[Wed Jul  7 14:00:52 2021] 127.0.0.1:50526 Closing
+[Wed Jul  7 14:00:52 2021] 127.0.0.1:50530 Accepted
+[Wed Jul  7 14:00:52 2021] 127.0.0.1:50530 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:00:52 2021] 127.0.0.1:50530 Closing
+[Wed Jul  7 14:00:54 2021] 127.0.0.1:50532 Accepted
+[Wed Jul  7 14:00:54 2021] 127.0.0.1:50532 [200]: POST /php/info.php
+[Wed Jul  7 14:00:54 2021] 127.0.0.1:50532 Closing
+[Wed Jul  7 14:01:24 2021] 127.0.0.1:50534 Accepted
+[Wed Jul  7 14:01:24 2021] 127.0.0.1:50534 [200]: POST /
+[Wed Jul  7 14:01:24 2021] 127.0.0.1:50534 Closing
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50536 Accepted
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50536 [200]: POST /css/main.css
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50536 Closing
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50538 Accepted
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50540 Accepted
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50542 Accepted
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50544 Accepted
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50542 [200]: POST /js/main.js
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50538 [200]: POST /js/info.js
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50540 [200]: POST /js/location.js
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50544 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50542 Closing
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50538 Closing
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50540 Closing
+[Wed Jul  7 14:01:25 2021] 127.0.0.1:50544 Closing
+[Wed Jul  7 14:01:26 2021] 127.0.0.1:50546 Accepted
+[Wed Jul  7 14:01:26 2021] 127.0.0.1:50546 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:01:26 2021] 127.0.0.1:50546 Closing
+[Wed Jul  7 14:01:28 2021] 127.0.0.1:50548 Accepted
+[Wed Jul  7 14:01:28 2021] 127.0.0.1:50548 [200]: POST /php/info.php
+[Wed Jul  7 14:01:28 2021] 127.0.0.1:50548 Closing
+[Wed Jul  7 14:02:05 2021] 127.0.0.1:50550 Accepted
+[Wed Jul  7 14:02:05 2021] 127.0.0.1:50550 [200]: POST /
+[Wed Jul  7 14:02:05 2021] 127.0.0.1:50550 Closing
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50552 Accepted
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50552 [200]: POST /css/main.css
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50552 Closing
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50556 Accepted
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50554 Accepted
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50556 [200]: POST /js/location.js
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50554 [200]: POST /js/main.js
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50556 Closing
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50554 Closing
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50560 Accepted
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50560 [200]: POST /js/info.js
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50560 Closing
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50562 Accepted
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50562 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:02:06 2021] 127.0.0.1:50562 Closing
+[Wed Jul  7 14:02:07 2021] 127.0.0.1:50564 Accepted
+[Wed Jul  7 14:02:07 2021] 127.0.0.1:50564 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:02:07 2021] 127.0.0.1:50564 Closing
+[Wed Jul  7 14:02:09 2021] 127.0.0.1:50566 Accepted
+[Wed Jul  7 14:02:09 2021] 127.0.0.1:50566 [200]: POST /php/info.php
+[Wed Jul  7 14:02:09 2021] 127.0.0.1:50566 Closing
+[Wed Jul  7 14:02:27 2021] 127.0.0.1:50568 Accepted
+[Wed Jul  7 14:02:27 2021] 127.0.0.1:50568 [200]: POST /
+[Wed Jul  7 14:02:27 2021] 127.0.0.1:50568 Closing
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50570 Accepted
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50570 [200]: POST /css/main.css
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50570 Closing
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50572 Accepted
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50572 [200]: POST /js/main.js
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50572 Closing
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50574 Accepted
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50576 Accepted
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50574 [200]: POST /js/location.js
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50578 Accepted
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50576 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50578 [200]: POST /js/info.js
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50574 Closing
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50576 Closing
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50578 Closing
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50580 Accepted
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50580 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:02:28 2021] 127.0.0.1:50580 Closing
+[Wed Jul  7 14:02:30 2021] 127.0.0.1:50582 Accepted
+[Wed Jul  7 14:02:30 2021] 127.0.0.1:50582 [200]: POST /php/info.php
+[Wed Jul  7 14:02:30 2021] 127.0.0.1:50582 Closing
+[Wed Jul  7 14:02:43 2021] 127.0.0.1:50584 Accepted
+[Wed Jul  7 14:02:43 2021] 127.0.0.1:50584 [200]: POST /
+[Wed Jul  7 14:02:43 2021] 127.0.0.1:50584 Closing
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50586 Accepted
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50586 [200]: POST /css/main.css
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50586 Closing
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50588 Accepted
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50588 [200]: POST /js/main.js
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50588 Closing
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50590 Accepted
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50590 [200]: POST /js/location.js
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50590 Closing
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50592 Accepted
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50592 [200]: POST /js/info.js
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50592 Closing
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50594 Accepted
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50594 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50594 Closing
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50596 Accepted
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50596 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:02:44 2021] 127.0.0.1:50596 Closing
+[Wed Jul  7 14:02:46 2021] 127.0.0.1:50598 Accepted
+[Wed Jul  7 14:02:46 2021] 127.0.0.1:50598 [200]: POST /php/info.php
+[Wed Jul  7 14:02:46 2021] 127.0.0.1:50598 Closing
+[Wed Jul  7 14:03:29 2021] 127.0.0.1:50602 Accepted
+[Wed Jul  7 14:03:29 2021] 127.0.0.1:50602 [200]: POST /
+[Wed Jul  7 14:03:29 2021] 127.0.0.1:50602 Closing
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50604 Accepted
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50606 Accepted
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50604 [200]: POST /css/main.css
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50604 Closing
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50608 Accepted
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50606 [200]: POST /js/location.js
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50608 [200]: POST /js/main.js
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50606 Closing
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50608 Closing
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50610 Accepted
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50610 [200]: POST /js/info.js
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50612 Accepted
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50610 Closing
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50612 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:03:30 2021] 127.0.0.1:50612 Closing
+[Wed Jul  7 14:03:31 2021] 127.0.0.1:50614 Accepted
+[Wed Jul  7 14:03:31 2021] 127.0.0.1:50614 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:03:31 2021] 127.0.0.1:50614 Closing
+[Wed Jul  7 14:03:33 2021] 127.0.0.1:50616 Accepted
+[Wed Jul  7 14:03:33 2021] 127.0.0.1:50616 [200]: POST /php/info.php
+[Wed Jul  7 14:03:33 2021] 127.0.0.1:50616 Closing
+[Wed Jul  7 14:04:07 2021] 127.0.0.1:50634 Accepted
+[Wed Jul  7 14:04:07 2021] 127.0.0.1:50634 [404]: POST /index1.html - No such file or directory
+[Wed Jul  7 14:04:07 2021] 127.0.0.1:50634 Closing
+[Wed Jul  7 14:04:08 2021] 127.0.0.1:50636 Accepted
+[Wed Jul  7 14:04:08 2021] 127.0.0.1:50636 [404]: POST /favicon.ico - No such file or directory
+[Wed Jul  7 14:04:08 2021] 127.0.0.1:50636 Closing
+[Wed Jul  7 14:04:11 2021] 127.0.0.1:50638 Accepted
+[Wed Jul  7 14:04:11 2021] 127.0.0.1:50638 [200]: POST /php/info.php
+[Wed Jul  7 14:04:11 2021] 127.0.0.1:50638 Closing
+[Wed Jul  7 14:04:28 2021] 127.0.0.1:50640 Accepted
+[Wed Jul  7 14:04:28 2021] 127.0.0.1:50640 [200]: POST /
+[Wed Jul  7 14:04:28 2021] 127.0.0.1:50640 Closing
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50642 Accepted
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50642 [200]: POST /css/main.css
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50642 Closing
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50644 Accepted
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50646 Accepted
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50648 Accepted
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50644 [200]: POST /js/info.js
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50644 Closing
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50646 [200]: POST /js/main.js
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50646 Closing
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50650 Accepted
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50648 [200]: POST /js/location.js
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50650 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50648 Closing
+[Wed Jul  7 14:04:29 2021] 127.0.0.1:50650 Closing
+[Wed Jul  7 14:04:30 2021] 127.0.0.1:50652 Accepted
+[Wed Jul  7 14:04:30 2021] 127.0.0.1:50652 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:04:30 2021] 127.0.0.1:50652 Closing
+[Wed Jul  7 14:04:32 2021] 127.0.0.1:50654 Accepted
+[Wed Jul  7 14:04:32 2021] 127.0.0.1:50654 [200]: POST /php/info.php
+[Wed Jul  7 14:04:32 2021] 127.0.0.1:50654 Closing
+[Wed Jul  7 14:04:37 2021] 127.0.0.1:50656 Accepted
+[Wed Jul  7 14:04:37 2021] 127.0.0.1:50656 [200]: POST /
+[Wed Jul  7 14:04:37 2021] 127.0.0.1:50656 Closing
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50658 Accepted
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50658 [200]: POST /css/main.css
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50658 Closing
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50660 Accepted
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50660 [200]: POST /js/main.js
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50660 Closing
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50662 Accepted
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50664 Accepted
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50662 [200]: POST /js/location.js
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50666 Accepted
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50662 Closing
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50664 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50666 [200]: POST /js/info.js
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50664 Closing
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50666 Closing
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50668 Accepted
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50668 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:04:38 2021] 127.0.0.1:50668 Closing
+[Wed Jul  7 14:04:40 2021] 127.0.0.1:50670 Accepted
+[Wed Jul  7 14:04:40 2021] 127.0.0.1:50670 [200]: POST /php/info.php
+[Wed Jul  7 14:04:40 2021] 127.0.0.1:50670 Closing
+[Wed Jul  7 14:05:13 2021] 127.0.0.1:50674 Accepted
+[Wed Jul  7 14:05:13 2021] 127.0.0.1:50674 [404]: POST /robots.txt - No such file or directory
+[Wed Jul  7 14:05:13 2021] 127.0.0.1:50674 Closing
+[Wed Jul  7 14:05:17 2021] 127.0.0.1:50676 Accepted
+[Wed Jul  7 14:05:17 2021] 127.0.0.1:50676 [200]: POST /
+[Wed Jul  7 14:05:17 2021] 127.0.0.1:50676 Closing
+[Wed Jul  7 14:06:06 2021] 127.0.0.1:50678 Accepted
+[Wed Jul  7 14:06:06 2021] 127.0.0.1:50678 [200]: POST /
+[Wed Jul  7 14:06:06 2021] 127.0.0.1:50678 Closing
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50680 Accepted
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50680 [200]: POST /css/main.css
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50680 Closing
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50682 Accepted
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50682 [200]: POST /js/main.js
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50682 Closing
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50684 Accepted
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50686 Accepted
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50684 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50684 Closing
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50688 Accepted
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50686 [200]: POST /js/location.js
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50688 [200]: POST /js/info.js
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50686 Closing
+[Wed Jul  7 14:06:07 2021] 127.0.0.1:50688 Closing
+[Wed Jul  7 14:06:08 2021] 127.0.0.1:50690 Accepted
+[Wed Jul  7 14:06:08 2021] 127.0.0.1:50690 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:06:08 2021] 127.0.0.1:50690 Closing
+[Wed Jul  7 14:06:10 2021] 127.0.0.1:50692 Accepted
+[Wed Jul  7 14:06:10 2021] 127.0.0.1:50692 [200]: POST /php/info.php
+[Wed Jul  7 14:06:10 2021] 127.0.0.1:50692 Closing
+[Wed Jul  7 14:08:22 2021] 127.0.0.1:50698 Accepted
+[Wed Jul  7 14:08:22 2021] 127.0.0.1:50698 [404]: POST /index1.html - No such file or directory
+[Wed Jul  7 14:08:22 2021] 127.0.0.1:50698 Closing
+[Wed Jul  7 14:08:46 2021] 192.241.206.187:50252 Accepted
+[Wed Jul  7 14:08:56 2021] 192.241.206.187:50252 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Jul  7 14:08:56 2021] 192.241.206.187:50252 Closing
+[Wed Jul  7 14:08:56 2021] 127.0.0.1:50706 Accepted
+[Wed Jul  7 14:08:56 2021] 127.0.0.1:50706 [404]: POST /index1.html - No such file or directory
+[Wed Jul  7 14:08:56 2021] 127.0.0.1:50706 Closing
+[Wed Jul  7 14:08:58 2021] 127.0.0.1:50708 Accepted
+[Wed Jul  7 14:08:58 2021] 127.0.0.1:50708 [200]: POST /php/info.php
+[Wed Jul  7 14:08:58 2021] 127.0.0.1:50708 Closing
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50710 Accepted
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50710 [200]: POST /
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50710 Closing
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50712 Accepted
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50712 [200]: POST /css/main.css
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50712 Closing
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50714 Accepted
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50714 [200]: POST /js/main.js
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50714 Closing
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50716 Accepted
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50716 [200]: POST /js/location.js
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50716 Closing
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50718 Accepted
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50720 Accepted
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50718 [200]: POST /js/info.js
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50720 [200]: POST /js/warpspeed.min.js
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50718 Closing
+[Wed Jul  7 14:08:59 2021] 127.0.0.1:50720 Closing
+[Wed Jul  7 14:09:00 2021] 127.0.0.1:50722 Accepted
+[Wed Jul  7 14:09:00 2021] 127.0.0.1:50722 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:09:00 2021] 127.0.0.1:50722 Closing
+[Wed Jul  7 14:09:01 2021] 127.0.0.1:50724 Accepted
+[Wed Jul  7 14:09:01 2021] 127.0.0.1:50724 [200]: POST /about.html
+[Wed Jul  7 14:09:01 2021] 127.0.0.1:50724 Closing
+[Wed Jul  7 14:09:06 2021] 127.0.0.1:50726 Accepted
+[Wed Jul  7 14:09:06 2021] 127.0.0.1:50726 [200]: POST /css/worldmap.jpg
+[Wed Jul  7 14:09:06 2021] 127.0.0.1:50726 Closing
+[Wed Jul  7 14:09:07 2021] 127.0.0.1:50728 Accepted
+[Wed Jul  7 14:09:07 2021] 127.0.0.1:50728 [200]: POST /php/info.php
+[Wed Jul  7 14:09:07 2021] 127.0.0.1:50728 Closing
