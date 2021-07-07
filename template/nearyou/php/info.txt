@@ -1,1 +1,1 @@
-{"dev":[{"platform":"Linux x86_64","browser":"Chrome\/90.0.4430.212","cores":"2","ram":"8","vendor":"Google Inc. (X.Org)","render":"ANGLE (X.Org, AMD STONEY (DRM 3.38.0 5.8.0-59-generic LLVM 11.0.0), OpenGL 4.5 (Core Profile) Mesa 20.2.6)","ip":"94.253.83.183","ht":"1080","wd":"1920","os":"Linux x86_64"}]}
+{"dev":[{"platform":"Linux x86_64","browser":"Firefox\/89.0","cores":"2","ram":"Not Available","vendor":"X.Org","render":"AMD STONEY","ip":"94.253.83.183","ht":"1080","wd":"1920","os":"Ubuntu"}]}
