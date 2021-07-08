@@ -1,1 +1,0 @@
-{"dev":[{"platform":"Linux x86_64","browser":"Firefox\/89.0","cores":"2","ram":"Not Available","vendor":"X.Org","render":"AMD STONEY","ip":"94.253.83.183","ht":"1080","wd":"1920","os":"Ubuntu"}]}
